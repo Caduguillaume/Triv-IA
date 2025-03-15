@@ -1,91 +1,770 @@
 {
     "Histoire": [
         {
-            "question": "En quelle année la Révolution française a-t-elle commencé ?",
-            "reponse": "1789",
-            "type": "qcu",
-            "options": [
-                "1776",
-                "1789",
-                "1815",
-                "1848"
-            ]
+            "type": "ouverte",
+            "question": "Quelle est la date de la prise de la Bastille ?"
         },
         {
-            "question": "Qui était le premier président des États-Unis ?",
-            "reponse": "George Washington",
-            "type": "qcu",
+            "type": "ouverte",
+            "question": "Qui était le premier président des États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui était le roi de France pendant la Révolution française ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel événement historique est célébré le 14 juillet en France ?"
+        },
+        {
+            "type": "qcm",
+            "question": "Qui a découvert l’Amérique ?",
             "options": [
-                "Thomas Jefferson",
-                "George Washington",
-                "Abraham Lincoln",
-                "John Adams"
-            ]
+                "Christophe Colomb",
+                "Vasco de Gama",
+                "Magellan",
+                "Marco Polo"
+            ],
+            "answer": "Christophe Colomb"
+        },
+        {
+            "type": "qcm",
+            "question": "Quel pays a construit la Grande Muraille ?",
+            "options": [
+                "Chine",
+                "Japon",
+                "Inde",
+                "Mongolie"
+            ],
+            "answer": "Chine"
+        },
+        {
+            "type": "qcm",
+            "question": "Quelle bataille a marqué la fin de Napoléon ?",
+            "options": [
+                "Waterloo",
+                "Austerlitz",
+                "Trafalgar",
+                "Iéna"
+            ],
+            "answer": "Waterloo"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui a aboli l’esclavage en France ?",
+            "options": [
+                "Robespierre",
+                "Napoléon",
+                "Victor Schoelcher",
+                "Louis XIV"
+            ],
+            "answer": "Victor Schoelcher"
+        },
+        {
+            "type": "qcu",
+            "question": "Quel mur est tombé en 1989 ?",
+            "options": [
+                "Mur de Berlin",
+                "Mur d’Hadrien",
+                "Muraille de Chine",
+                "Mur de la honte"
+            ],
+            "answer": "Mur de Berlin"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Roosevelt",
+                "Truman",
+                "Eisenhower",
+                "Kennedy"
+            ],
+            "answer": "Roosevelt"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Révolution française a eu lieu en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "Cléopâtre était une reine romaine.",
+            "answer": "Faux"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "L’empire inca était situé en Afrique.",
+            "answer": "Faux"
         }
     ],
     "Geographie": [
         {
-            "question": "Quel est le plus grand pays du monde en superficie ?",
-            "reponse": "Russie",
-            "type": "qcu",
+            "type": "ouverte",
+            "question": "Quelle est la date de la prise de la Bastille ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui était le premier président des États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui était le roi de France pendant la Révolution française ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel événement historique est célébré le 14 juillet en France ?"
+        },
+        {
+            "type": "qcm",
+            "question": "Qui a découvert l’Amérique ?",
             "options": [
-                "Canada",
-                "Russie",
+                "Christophe Colomb",
+                "Vasco de Gama",
+                "Magellan",
+                "Marco Polo"
+            ],
+            "answer": "Christophe Colomb"
+        },
+        {
+            "type": "qcm",
+            "question": "Quel pays a construit la Grande Muraille ?",
+            "options": [
                 "Chine",
-                "États-Unis"
-            ]
+                "Japon",
+                "Inde",
+                "Mongolie"
+            ],
+            "answer": "Chine"
+        },
+        {
+            "type": "qcm",
+            "question": "Quelle bataille a marqué la fin de Napoléon ?",
+            "options": [
+                "Waterloo",
+                "Austerlitz",
+                "Trafalgar",
+                "Iéna"
+            ],
+            "answer": "Waterloo"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui a aboli l’esclavage en France ?",
+            "options": [
+                "Robespierre",
+                "Napoléon",
+                "Victor Schoelcher",
+                "Louis XIV"
+            ],
+            "answer": "Victor Schoelcher"
+        },
+        {
+            "type": "qcu",
+            "question": "Quel mur est tombé en 1989 ?",
+            "options": [
+                "Mur de Berlin",
+                "Mur d’Hadrien",
+                "Muraille de Chine",
+                "Mur de la honte"
+            ],
+            "answer": "Mur de Berlin"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Roosevelt",
+                "Truman",
+                "Eisenhower",
+                "Kennedy"
+            ],
+            "answer": "Roosevelt"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Révolution française a eu lieu en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "Cléopâtre était une reine romaine.",
+            "answer": "Faux"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "L’empire inca était situé en Afrique.",
+            "answer": "Faux"
         }
     ],
     "Science et nature": [
         {
-            "question": "Quel est l’élément chimique dont le symbole est 'O' ?",
-            "reponse": "Oxygène",
-            "type": "qcu",
+            "type": "ouverte",
+            "question": "Quelle est la date de la prise de la Bastille ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui était le premier président des États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui était le roi de France pendant la Révolution française ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel événement historique est célébré le 14 juillet en France ?"
+        },
+        {
+            "type": "qcm",
+            "question": "Qui a découvert l’Amérique ?",
             "options": [
-                "Or",
-                "Osmium",
-                "Oxygène",
-                "Oganesson"
-            ]
+                "Christophe Colomb",
+                "Vasco de Gama",
+                "Magellan",
+                "Marco Polo"
+            ],
+            "answer": "Christophe Colomb"
+        },
+        {
+            "type": "qcm",
+            "question": "Quel pays a construit la Grande Muraille ?",
+            "options": [
+                "Chine",
+                "Japon",
+                "Inde",
+                "Mongolie"
+            ],
+            "answer": "Chine"
+        },
+        {
+            "type": "qcm",
+            "question": "Quelle bataille a marqué la fin de Napoléon ?",
+            "options": [
+                "Waterloo",
+                "Austerlitz",
+                "Trafalgar",
+                "Iéna"
+            ],
+            "answer": "Waterloo"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui a aboli l’esclavage en France ?",
+            "options": [
+                "Robespierre",
+                "Napoléon",
+                "Victor Schoelcher",
+                "Louis XIV"
+            ],
+            "answer": "Victor Schoelcher"
+        },
+        {
+            "type": "qcu",
+            "question": "Quel mur est tombé en 1989 ?",
+            "options": [
+                "Mur de Berlin",
+                "Mur d’Hadrien",
+                "Muraille de Chine",
+                "Mur de la honte"
+            ],
+            "answer": "Mur de Berlin"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Roosevelt",
+                "Truman",
+                "Eisenhower",
+                "Kennedy"
+            ],
+            "answer": "Roosevelt"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Révolution française a eu lieu en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "Cléopâtre était une reine romaine.",
+            "answer": "Faux"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "L’empire inca était situé en Afrique.",
+            "answer": "Faux"
         }
     ],
     "Sport et loisirs": [
         {
-            "question": "Dans quel sport utilise-t-on une balle de 57 mm de diamètre ?",
-            "reponse": "Tennis de table",
-            "type": "qcu",
+            "type": "ouverte",
+            "question": "Quelle est la date de la prise de la Bastille ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui était le premier président des États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui était le roi de France pendant la Révolution française ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel événement historique est célébré le 14 juillet en France ?"
+        },
+        {
+            "type": "qcm",
+            "question": "Qui a découvert l’Amérique ?",
             "options": [
-                "Golf",
-                "Baseball",
-                "Tennis de table",
-                "Hockey"
-            ]
+                "Christophe Colomb",
+                "Vasco de Gama",
+                "Magellan",
+                "Marco Polo"
+            ],
+            "answer": "Christophe Colomb"
+        },
+        {
+            "type": "qcm",
+            "question": "Quel pays a construit la Grande Muraille ?",
+            "options": [
+                "Chine",
+                "Japon",
+                "Inde",
+                "Mongolie"
+            ],
+            "answer": "Chine"
+        },
+        {
+            "type": "qcm",
+            "question": "Quelle bataille a marqué la fin de Napoléon ?",
+            "options": [
+                "Waterloo",
+                "Austerlitz",
+                "Trafalgar",
+                "Iéna"
+            ],
+            "answer": "Waterloo"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui a aboli l’esclavage en France ?",
+            "options": [
+                "Robespierre",
+                "Napoléon",
+                "Victor Schoelcher",
+                "Louis XIV"
+            ],
+            "answer": "Victor Schoelcher"
+        },
+        {
+            "type": "qcu",
+            "question": "Quel mur est tombé en 1989 ?",
+            "options": [
+                "Mur de Berlin",
+                "Mur d’Hadrien",
+                "Muraille de Chine",
+                "Mur de la honte"
+            ],
+            "answer": "Mur de Berlin"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Roosevelt",
+                "Truman",
+                "Eisenhower",
+                "Kennedy"
+            ],
+            "answer": "Roosevelt"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Révolution française a eu lieu en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "Cléopâtre était une reine romaine.",
+            "answer": "Faux"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "L’empire inca était situé en Afrique.",
+            "answer": "Faux"
         }
     ],
     "Art et littérature": [
         {
-            "question": "Qui a peint la Joconde ?",
-            "reponse": "Léonard de Vinci",
-            "type": "qcu",
+            "type": "ouverte",
+            "question": "Quelle est la date de la prise de la Bastille ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui était le premier président des États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui était le roi de France pendant la Révolution française ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel événement historique est célébré le 14 juillet en France ?"
+        },
+        {
+            "type": "qcm",
+            "question": "Qui a découvert l’Amérique ?",
             "options": [
-                "Michel-Ange",
-                "Raphaël",
-                "Léonard de Vinci",
-                "Van Gogh"
-            ]
+                "Christophe Colomb",
+                "Vasco de Gama",
+                "Magellan",
+                "Marco Polo"
+            ],
+            "answer": "Christophe Colomb"
+        },
+        {
+            "type": "qcm",
+            "question": "Quel pays a construit la Grande Muraille ?",
+            "options": [
+                "Chine",
+                "Japon",
+                "Inde",
+                "Mongolie"
+            ],
+            "answer": "Chine"
+        },
+        {
+            "type": "qcm",
+            "question": "Quelle bataille a marqué la fin de Napoléon ?",
+            "options": [
+                "Waterloo",
+                "Austerlitz",
+                "Trafalgar",
+                "Iéna"
+            ],
+            "answer": "Waterloo"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui a aboli l’esclavage en France ?",
+            "options": [
+                "Robespierre",
+                "Napoléon",
+                "Victor Schoelcher",
+                "Louis XIV"
+            ],
+            "answer": "Victor Schoelcher"
+        },
+        {
+            "type": "qcu",
+            "question": "Quel mur est tombé en 1989 ?",
+            "options": [
+                "Mur de Berlin",
+                "Mur d’Hadrien",
+                "Muraille de Chine",
+                "Mur de la honte"
+            ],
+            "answer": "Mur de Berlin"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Roosevelt",
+                "Truman",
+                "Eisenhower",
+                "Kennedy"
+            ],
+            "answer": "Roosevelt"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Révolution française a eu lieu en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "Cléopâtre était une reine romaine.",
+            "answer": "Faux"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "L’empire inca était situé en Afrique.",
+            "answer": "Faux"
         }
     ],
     "Divertissement": [
         {
-            "question": "Quel est le nom du sorcier principal dans 'Harry Potter' ?",
-            "reponse": "Harry Potter",
-            "type": "qcu",
+            "type": "ouverte",
+            "question": "Quelle est la date de la prise de la Bastille ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui était le premier président des États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui était le roi de France pendant la Révolution française ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel événement historique est célébré le 14 juillet en France ?"
+        },
+        {
+            "type": "qcm",
+            "question": "Qui a découvert l’Amérique ?",
             "options": [
-                "Harry Potter",
-                "Gandalf",
-                "Merlin",
-                "Dumbledore"
-            ]
+                "Christophe Colomb",
+                "Vasco de Gama",
+                "Magellan",
+                "Marco Polo"
+            ],
+            "answer": "Christophe Colomb"
+        },
+        {
+            "type": "qcm",
+            "question": "Quel pays a construit la Grande Muraille ?",
+            "options": [
+                "Chine",
+                "Japon",
+                "Inde",
+                "Mongolie"
+            ],
+            "answer": "Chine"
+        },
+        {
+            "type": "qcm",
+            "question": "Quelle bataille a marqué la fin de Napoléon ?",
+            "options": [
+                "Waterloo",
+                "Austerlitz",
+                "Trafalgar",
+                "Iéna"
+            ],
+            "answer": "Waterloo"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui a aboli l’esclavage en France ?",
+            "options": [
+                "Robespierre",
+                "Napoléon",
+                "Victor Schoelcher",
+                "Louis XIV"
+            ],
+            "answer": "Victor Schoelcher"
+        },
+        {
+            "type": "qcu",
+            "question": "Quel mur est tombé en 1989 ?",
+            "options": [
+                "Mur de Berlin",
+                "Mur d’Hadrien",
+                "Muraille de Chine",
+                "Mur de la honte"
+            ],
+            "answer": "Mur de Berlin"
+        },
+        {
+            "type": "qcu",
+            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Roosevelt",
+                "Truman",
+                "Eisenhower",
+                "Kennedy"
+            ],
+            "answer": "Roosevelt"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Révolution française a eu lieu en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "Cléopâtre était une reine romaine.",
+            "answer": "Faux"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "vrai/faux",
+            "question": "L’empire inca était situé en Afrique.",
+            "answer": "Faux"
         }
     ]
 }
