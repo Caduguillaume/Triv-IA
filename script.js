@@ -95,3 +95,29 @@ function flipCardFunction() {
         }, 300);
     }
 }
+
+function loadNewQuestion(theme) {
+    if (!questionsData[theme]) {
+        console.error("Thème introuvable !");
+        return;
+    }
+
+    let questionsList = questionsData[theme];
+    let randomIndex = Math.floor(Math.random() * questionsList.length);
+    let newQuestion = questionsList[randomIndex];
+
+    currentQuestion = newQuestion;
+    questionElem.textContent = currentQuestion.question;
+    answerElem.textContent = ""; // Masquer la réponse avant de retourner la carte
+    optionsElem.innerHTML = ""; // Réinitialiser les propositions
+
+    // Si c'est un QCM ou QCU, on affiche les choix de réponse
+    if (currentQuestion.type === "qcm" || currentQuestion.type === "qcu") {
+        currentQuestion.options.forEach(option => {
+            let optionElem = document.createElement("div");
+            optionElem.textContent = option;
+            optionsElem.appendChild(optionElem);
+        });
+    }
+}
+
