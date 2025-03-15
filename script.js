@@ -6,6 +6,17 @@ const themes = ["geo", "hist", "science", "sports", "art", "divert"];
 let currentTheme = "";
 let currentQuestion = { question: "Choisir un thème", answer: "", type: "open", options: [] };
 
+let questionsData = {}; // Stocke les questions chargées depuis le JSON
+
+// Charger le JSON au démarrage
+fetch("questions.json") // Assure-toi que le fichier est bien dans le même dossier que ton HTML
+    .then(response => response.json())
+    .then(data => {
+        questionsData = data;
+    })
+    .catch(error => console.error("Erreur de chargement des questions :", error));
+
+
 const questions = {
     geo: [
         { 
@@ -28,6 +39,11 @@ function setTheme(theme) {
     card.classList.remove(...themes);
     card.classList.add(theme);
 
+    if (!questionsData[theme] || questionsData[theme].length === 0) {
+        console.error("Pas de questions disponibles pour ce thème !");
+        return;
+    }
+
     if (theme === currentTheme) {
         loadNewQuestion(theme);
     } else {
@@ -40,6 +56,7 @@ function setTheme(theme) {
         }
     }
 }
+
 
 // Fonction pour charger une nouvelle question
 function loadNewQuestion(theme) {
