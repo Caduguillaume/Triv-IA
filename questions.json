@@ -1,761 +1,2282 @@
 {
     "geo": [
         {
-            "question": "Quelle est la capitale de l'Australie ?",
             "type": "ouverte",
-            "answer": "Canberra"
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
         },
         {
-            "question": "Quel est le plus long fleuve du monde ?",
             "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
             "answer": "Le Nil"
         },
         {
-            "question": "Le mont Everest est la plus haute montagne du monde.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Vrai"
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
         },
         {
-            "question": "Le mont Everest est la plus haute montagne du monde.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Vrai"
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
         },
         {
-            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
-            "type": "qcu",
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
             "options": [
-                "France",
-                "Italie",
-                "Belgique",
-                "Pologne"
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
             ],
-            "answer": [
-                "France",
-                "Belgique",
-                "Pologne"
+            "answers": [
+                0,
+                1,
+                2
             ]
         },
         {
-            "question": "Quelle est la capitale du Canada ?",
             "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
             "options": [
-                "Toronto",
-                "Vancouver",
-                "Ottawa",
-                "Montréal"
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
             ],
-            "answer": "Ottawa"
-        },
-        {
-            "question": "Le mont Everest est la plus haute montagne du monde.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Vrai"
-        },
-        {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Italie",
-                "Belgique",
-                "Pologne"
-            ],
-            "answer": [
-                "France",
-                "Belgique",
-                "Pologne"
+            "answers": [
+                0,
+                1,
+                2
             ]
         },
         {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
-        },
-        {
-            "question": "Quelle est la capitale du Canada ?",
             "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
             "options": [
-                "Toronto",
-                "Vancouver",
-                "Ottawa",
-                "Montréal"
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
             ],
-            "answer": "Ottawa"
-        },
-        {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
-        },
-        {
-            "question": "Le mont Everest est la plus haute montagne du monde.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Vrai"
-        },
-        {
-            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Italie",
-                "Belgique",
-                "Pologne"
-            ],
-            "answer": [
-                "France",
-                "Belgique",
-                "Pologne"
+            "answers": [
+                0,
+                1,
+                2
             ]
         },
         {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
-            "type": "qcu",
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
             "options": [
-                "France",
-                "Italie",
-                "Belgique",
-                "Pologne"
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
             ],
-            "answer": [
-                "France",
-                "Belgique",
-                "Pologne"
+            "answers": [
+                0,
+                1,
+                2
             ]
         },
         {
-            "question": "Quelle est la capitale du Canada ?",
             "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
             "options": [
-                "Toronto",
-                "Vancouver",
-                "Ottawa",
-                "Montréal"
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
             ],
-            "answer": "Ottawa"
-        },
-        {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Le mont Everest est la plus haute montagne du monde.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Vrai"
-        },
-        {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
-        },
-        {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
-        },
-        {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Le mont Everest est la plus haute montagne du monde.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Vrai"
-        },
-        {
-            "question": "Quelle est la capitale du Canada ?",
-            "type": "qcm",
-            "options": [
-                "Toronto",
-                "Vancouver",
-                "Ottawa",
-                "Montréal"
-            ],
-            "answer": "Ottawa"
-        },
-        {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
-        },
-        {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
-        },
-        {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Quelle est la capitale du Canada ?",
-            "type": "qcm",
-            "options": [
-                "Toronto",
-                "Vancouver",
-                "Ottawa",
-                "Montréal"
-            ],
-            "answer": "Ottawa"
-        },
-        {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Italie",
-                "Belgique",
-                "Pologne"
-            ],
-            "answer": [
-                "France",
-                "Belgique",
-                "Pologne"
+            "answers": [
+                0,
+                1,
+                2
             ]
         },
         {
-            "question": "Quelle est la capitale du Canada ?",
             "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
             "options": [
-                "Toronto",
-                "Vancouver",
-                "Ottawa",
-                "Montréal"
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
             ],
-            "answer": "Ottawa"
-        },
-        {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
-        },
-        {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
-        },
-        {
-            "question": "Quelle est la capitale du Canada ?",
-            "type": "qcm",
-            "options": [
-                "Toronto",
-                "Vancouver",
-                "Ottawa",
-                "Montréal"
-            ],
-            "answer": "Ottawa"
-        },
-        {
-            "question": "Le mont Everest est la plus haute montagne du monde.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Vrai"
-        },
-        {
-            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Italie",
-                "Belgique",
-                "Pologne"
-            ],
-            "answer": [
-                "France",
-                "Belgique",
-                "Pologne"
+            "answers": [
+                0,
+                1,
+                2
             ]
         },
         {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Quelle est la capitale du Canada ?",
             "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
             "options": [
-                "Toronto",
-                "Vancouver",
-                "Ottawa",
-                "Montréal"
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
             ],
-            "answer": "Ottawa"
-        },
-        {
-            "question": "Le mont Everest est la plus haute montagne du monde.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Vrai"
-        },
-        {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
-        },
-        {
-            "question": "Quel est le plus long fleuve du monde ?",
-            "type": "ouverte",
-            "answer": "Le Nil"
-        },
-        {
-            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Italie",
-                "Belgique",
-                "Pologne"
-            ],
-            "answer": [
-                "France",
-                "Belgique",
-                "Pologne"
+            "answers": [
+                0,
+                1,
+                2
             ]
         },
         {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
-        },
-        {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
-        },
-        {
-            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
-            "type": "qcu",
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
             "options": [
-                "France",
-                "Italie",
-                "Belgique",
-                "Pologne"
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
             ],
-            "answer": [
-                "France",
-                "Belgique",
-                "Pologne"
+            "answers": [
+                0,
+                1,
+                2
             ]
         },
         {
-            "question": "Quelle est la capitale de l'Australie ?",
-            "type": "ouverte",
-            "answer": "Canberra"
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
         }
     ],
     "hist": [
         {
-            "question": "Napoléon Bonaparte est mort en 1815.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Faux"
-        },
-        {
-            "question": "En quelle année a eu lieu la Révolution française ?",
             "type": "ouverte",
-            "answer": "1789"
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
         },
         {
-            "question": "En quelle année a eu lieu la Révolution française ?",
             "type": "ouverte",
-            "answer": "1789"
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
         },
         {
-            "question": "En quelle année a eu lieu la Révolution française ?",
             "type": "ouverte",
-            "answer": "1789"
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
         },
         {
-            "question": "Napoléon Bonaparte est mort en 1815.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Faux"
-        },
-        {
-            "question": "En quelle année a eu lieu la Révolution française ?",
             "type": "ouverte",
-            "answer": "1789"
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
         },
         {
-            "question": "Qui a été le premier président des États-Unis ?",
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
             "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
             "options": [
-                "George Washington",
-                "Thomas Jefferson",
-                "Abraham Lincoln",
-                "John Adams"
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
             ],
-            "answer": "George Washington"
-        },
-        {
-            "question": "Napoléon Bonaparte est mort en 1815.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Faux"
-        },
-        {
-            "question": "Qui a été le premier président des États-Unis ?",
-            "type": "qcm",
-            "options": [
-                "George Washington",
-                "Thomas Jefferson",
-                "Abraham Lincoln",
-                "John Adams"
-            ],
-            "answer": "George Washington"
-        },
-        {
-            "question": "Qui a été le premier président des États-Unis ?",
-            "type": "qcm",
-            "options": [
-                "George Washington",
-                "Thomas Jefferson",
-                "Abraham Lincoln",
-                "John Adams"
-            ],
-            "answer": "George Washington"
-        },
-        {
-            "question": "En quelle année a eu lieu la Révolution française ?",
-            "type": "ouverte",
-            "answer": "1789"
-        },
-        {
-            "question": "Qui a été le premier président des États-Unis ?",
-            "type": "qcm",
-            "options": [
-                "George Washington",
-                "Thomas Jefferson",
-                "Abraham Lincoln",
-                "John Adams"
-            ],
-            "answer": "George Washington"
-        },
-        {
-            "question": "Napoléon Bonaparte est mort en 1815.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Faux"
-        },
-        {
-            "question": "En quelle année a eu lieu la Révolution française ?",
-            "type": "ouverte",
-            "answer": "1789"
-        },
-        {
-            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Allemagne",
-                "Brésil",
-                "Japon"
-            ],
-            "answer": [
-                "France",
-                "Allemagne",
-                "Japon"
+            "answers": [
+                0,
+                1,
+                2
             ]
         },
         {
-            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Allemagne",
-                "Brésil",
-                "Japon"
-            ],
-            "answer": [
-                "France",
-                "Allemagne",
-                "Japon"
-            ]
-        },
-        {
-            "question": "Napoléon Bonaparte est mort en 1815.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Faux"
-        },
-        {
-            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Allemagne",
-                "Brésil",
-                "Japon"
-            ],
-            "answer": [
-                "France",
-                "Allemagne",
-                "Japon"
-            ]
-        },
-        {
-            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Allemagne",
-                "Brésil",
-                "Japon"
-            ],
-            "answer": [
-                "France",
-                "Allemagne",
-                "Japon"
-            ]
-        },
-        {
-            "question": "En quelle année a eu lieu la Révolution française ?",
-            "type": "ouverte",
-            "answer": "1789"
-        },
-        {
-            "question": "Napoléon Bonaparte est mort en 1815.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Faux"
-        },
-        {
-            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Allemagne",
-                "Brésil",
-                "Japon"
-            ],
-            "answer": [
-                "France",
-                "Allemagne",
-                "Japon"
-            ]
-        },
-        {
-            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Allemagne",
-                "Brésil",
-                "Japon"
-            ],
-            "answer": [
-                "France",
-                "Allemagne",
-                "Japon"
-            ]
-        },
-        {
-            "question": "En quelle année a eu lieu la Révolution française ?",
-            "type": "ouverte",
-            "answer": "1789"
-        },
-        {
-            "question": "En quelle année a eu lieu la Révolution française ?",
-            "type": "ouverte",
-            "answer": "1789"
-        },
-        {
-            "question": "Qui a été le premier président des États-Unis ?",
             "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
             "options": [
-                "George Washington",
-                "Thomas Jefferson",
-                "Abraham Lincoln",
-                "John Adams"
-            ],
-            "answer": "George Washington"
-        },
-        {
-            "question": "Qui a été le premier président des États-Unis ?",
-            "type": "qcm",
-            "options": [
-                "George Washington",
-                "Thomas Jefferson",
-                "Abraham Lincoln",
-                "John Adams"
-            ],
-            "answer": "George Washington"
-        },
-        {
-            "question": "En quelle année a eu lieu la Révolution française ?",
-            "type": "ouverte",
-            "answer": "1789"
-        },
-        {
-            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
-            "type": "qcu",
-            "options": [
-                "France",
-                "Allemagne",
                 "Brésil",
-                "Japon"
+                "Argentine",
+                "Chili",
+                "Canada"
             ],
-            "answer": [
-                "France",
-                "Allemagne",
-                "Japon"
+            "answers": [
+                0,
+                1,
+                2
             ]
         },
         {
-            "question": "En quelle année a eu lieu la Révolution française ?",
-            "type": "ouverte",
-            "answer": "1789"
-        },
-        {
-            "question": "En quelle année a eu lieu la Révolution française ?",
-            "type": "ouverte",
-            "answer": "1789"
-        },
-        {
-            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
-            "type": "qcu",
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
             "options": [
-                "France",
-                "Allemagne",
                 "Brésil",
-                "Japon"
+                "Argentine",
+                "Chili",
+                "Canada"
             ],
-            "answer": [
-                "France",
-                "Allemagne",
-                "Japon"
+            "answers": [
+                0,
+                1,
+                2
             ]
         },
         {
-            "question": "Napoléon Bonaparte est mort en 1815.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Faux"
-        },
-        {
-            "question": "Napoléon Bonaparte est mort en 1815.",
-            "type": "vf",
-            "options": [
-                "Vrai",
-                "Faux"
-            ],
-            "answer": "Faux"
-        },
-        {
-            "question": "Qui a été le premier président des États-Unis ?",
             "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
             "options": [
-                "George Washington",
-                "Thomas Jefferson",
-                "Abraham Lincoln",
-                "John Adams"
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
             ],
-            "answer": "George Washington"
+            "answers": [
+                0,
+                1,
+                2
+            ]
         },
         {
-            "question": "Qui a été le premier président des États-Unis ?",
             "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
             "options": [
-                "George Washington",
-                "Thomas Jefferson",
-                "Abraham Lincoln",
-                "John Adams"
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
             ],
-            "answer": "George Washington"
+            "answers": [
+                0,
+                1,
+                2
+            ]
         },
         {
-            "question": "En quelle année a eu lieu la Révolution française ?",
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        }
+    ],
+    "science": [
+        {
             "type": "ouverte",
-            "answer": "1789"
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        }
+    ],
+    "sports": [
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        }
+    ],
+    "art": [
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        }
+    ],
+    "divert": [
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la plus longue rivière du monde ?",
+            "answer": "Le Nil"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale de l'Australie ?",
+            "answer": "Canberra"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand désert du monde ?",
+            "answer": "L'Antarctique"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand océan de la planète ?",
+            "answer": "L'océan Pacifique"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes sont en Italie ?",
+            "options": [
+                "Rome",
+                "Milan",
+                "Naples",
+                "Madrid"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "options": [
+                "Brésil",
+                "Argentine",
+                "Chili",
+                "Canada"
+            ],
+            "answers": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Où se trouve la Tour Eiffel ?",
+            "options": [
+                "Berlin",
+                "Londres",
+                "Paris",
+                "Rome"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Blanc",
+                "Kilimandjaro",
+                "Everest",
+                "Aconcagua"
+            ],
+            "answer": 2
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "L'Australie est un continent.",
+            "answer": true
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
+        },
+        {
+            "type": "vrai_faux",
+            "question": "Le Nil traverse le Brésil.",
+            "answer": false
         }
     ]
 }
