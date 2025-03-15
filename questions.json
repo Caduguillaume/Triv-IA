@@ -7,48 +7,39 @@
         },
         {
             "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
+            "question": "Quelle est la capitale du Canada ?",
+            "answer": "Ottawa"
         },
         {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
+            "type": "qcm",
+            "question": "Quels sont les continents de la Terre ?",
+            "options": [
+                "Europe",
+                "Asie",
+                "Afrique",
+                "Amazonie"
+            ],
+            "answers": [
+                "Europe",
+                "Asie",
+                "Afrique"
+            ]
         },
         {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
+            "type": "qcu",
             "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
+            "options": [
+                "Sahara",
+                "Antarctique",
+                "Gobi",
+                "Atacama"
+            ],
+            "answer": "Antarctique"
         },
         {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
+            "type": "vf",
+            "question": "L'Australie est plus grande que l'Europe.",
+            "answer": "Faux"
         },
         {
             "type": "ouverte",
@@ -57,2226 +48,2437 @@
         },
         {
             "type": "ouverte",
+            "question": "Quelle est la capitale du Canada ?",
+            "answer": "Ottawa"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les continents de la Terre ?",
+            "options": [
+                "Europe",
+                "Asie",
+                "Afrique",
+                "Amazonie"
+            ],
+            "answers": [
+                "Europe",
+                "Asie",
+                "Afrique"
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus grand désert du monde ?",
+            "options": [
+                "Sahara",
+                "Antarctique",
+                "Gobi",
+                "Atacama"
+            ],
+            "answer": "Antarctique"
+        },
+        {
+            "type": "vf",
+            "question": "L'Australie est plus grande que l'Europe.",
+            "answer": "Faux"
+        },
+        {
+            "type": "ouverte",
             "question": "Quel pays a la plus grande population ?",
             "answer": "La Chine"
         },
         {
             "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
+            "question": "Quelle est la capitale du Canada ?",
+            "answer": "Ottawa"
         },
         {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
+            "type": "qcm",
+            "question": "Quels sont les continents de la Terre ?",
+            "options": [
+                "Europe",
+                "Asie",
+                "Afrique",
+                "Amazonie"
+            ],
+            "answers": [
+                "Europe",
+                "Asie",
+                "Afrique"
+            ]
         },
         {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
+            "type": "qcu",
             "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
+            "options": [
+                "Sahara",
+                "Antarctique",
+                "Gobi",
+                "Atacama"
+            ],
+            "answer": "Antarctique"
+        },
+        {
+            "type": "vf",
+            "question": "L'Australie est plus grande que l'Europe.",
+            "answer": "Faux"
         },
         {
             "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
         },
         {
             "type": "ouverte",
+            "question": "Quelle est la capitale du Canada ?",
+            "answer": "Ottawa"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les continents de la Terre ?",
+            "options": [
+                "Europe",
+                "Asie",
+                "Afrique",
+                "Amazonie"
+            ],
+            "answers": [
+                "Europe",
+                "Asie",
+                "Afrique"
+            ]
+        },
+        {
+            "type": "qcu",
             "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
+            "options": [
+                "Sahara",
+                "Antarctique",
+                "Gobi",
+                "Atacama"
+            ],
+            "answer": "Antarctique"
+        },
+        {
+            "type": "vf",
+            "question": "L'Australie est plus grande que l'Europe.",
+            "answer": "Faux"
         },
         {
             "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale du Canada ?",
+            "answer": "Ottawa"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les continents de la Terre ?",
+            "options": [
+                "Europe",
+                "Asie",
+                "Afrique",
+                "Amazonie"
+            ],
+            "answers": [
+                "Europe",
+                "Asie",
+                "Afrique"
+            ]
+        },
+        {
+            "type": "qcu",
             "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
+            "options": [
+                "Sahara",
+                "Antarctique",
+                "Gobi",
+                "Atacama"
+            ],
+            "answer": "Antarctique"
+        },
+        {
+            "type": "vf",
+            "question": "L'Australie est plus grande que l'Europe.",
+            "answer": "Faux"
         },
         {
             "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
         },
         {
             "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
+            "question": "Quelle est la capitale du Canada ?",
+            "answer": "Ottawa"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les continents de la Terre ?",
+            "options": [
+                "Europe",
+                "Asie",
+                "Afrique",
+                "Amazonie"
+            ],
+            "answers": [
+                "Europe",
+                "Asie",
+                "Afrique"
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus grand désert du monde ?",
+            "options": [
+                "Sahara",
+                "Antarctique",
+                "Gobi",
+                "Atacama"
+            ],
+            "answer": "Antarctique"
+        },
+        {
+            "type": "vf",
+            "question": "L'Australie est plus grande que l'Europe.",
+            "answer": "Faux"
         },
         {
             "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
         },
         {
             "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
+            "question": "Quelle est la capitale du Canada ?",
+            "answer": "Ottawa"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les continents de la Terre ?",
+            "options": [
+                "Europe",
+                "Asie",
+                "Afrique",
+                "Amazonie"
+            ],
+            "answers": [
+                "Europe",
+                "Asie",
+                "Afrique"
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le plus grand désert du monde ?",
+            "options": [
+                "Sahara",
+                "Antarctique",
+                "Gobi",
+                "Atacama"
+            ],
+            "answer": "Antarctique"
+        },
+        {
+            "type": "vf",
+            "question": "L'Australie est plus grande que l'Europe.",
+            "answer": "Faux"
         },
         {
             "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale du Canada ?",
+            "answer": "Ottawa"
         },
         {
             "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "question": "Quels sont les continents de la Terre ?",
             "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
+                "Europe",
+                "Asie",
+                "Afrique",
+                "Amazonie"
             ],
             "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
+                "Europe",
+                "Asie",
+                "Afrique"
             ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel est le plus grand désert du monde ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Sahara",
+                "Antarctique",
+                "Gobi",
+                "Atacama"
             ],
-            "answer": 2
+            "answer": "Antarctique"
+        },
+        {
+            "type": "vf",
+            "question": "L'Australie est plus grande que l'Europe.",
+            "answer": "Faux"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale du Canada ?",
+            "answer": "Ottawa"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les continents de la Terre ?",
+            "options": [
+                "Europe",
+                "Asie",
+                "Afrique",
+                "Amazonie"
+            ],
+            "answers": [
+                "Europe",
+                "Asie",
+                "Afrique"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel est le plus grand désert du monde ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Sahara",
+                "Antarctique",
+                "Gobi",
+                "Atacama"
             ],
-            "answer": 2
+            "answer": "Antarctique"
+        },
+        {
+            "type": "vf",
+            "question": "L'Australie est plus grande que l'Europe.",
+            "answer": "Faux"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a la plus grande population ?",
+            "answer": "La Chine"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle est la capitale du Canada ?",
+            "answer": "Ottawa"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les continents de la Terre ?",
+            "options": [
+                "Europe",
+                "Asie",
+                "Afrique",
+                "Amazonie"
+            ],
+            "answers": [
+                "Europe",
+                "Asie",
+                "Afrique"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Quel est le plus grand désert du monde ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "Sahara",
+                "Antarctique",
+                "Gobi",
+                "Atacama"
             ],
-            "answer": 2
+            "answer": "Antarctique"
         },
         {
-            "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
-            "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
-            ],
-            "answer": 2
-        },
-        {
-            "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
-            "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
-            ],
-            "answer": 2
-        },
-        {
-            "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
-            "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
-            ],
-            "answer": 2
-        },
-        {
-            "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
-            "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
-            ],
-            "answer": 2
-        },
-        {
-            "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
-            "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
-            ],
-            "answer": 2
-        },
-        {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
-        },
-        {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
-        },
-        {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
-        },
-        {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
-        },
-        {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
-        },
-        {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
-        },
-        {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
-        },
-        {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
-        },
-        {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "vf",
+            "question": "L'Australie est plus grande que l'Europe.",
+            "answer": "Faux"
         }
     ],
     "hist": [
         {
             "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
+            "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+            "answer": "1945"
         },
         {
             "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
+            "question": "Quel empereur français a été exilé à l'île d'Elbe ?",
+            "answer": "Napoléon Bonaparte"
         },
         {
             "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
+            "question": "Quels pays faisaient partie de l'Axe pendant la Seconde Guerre mondiale ?",
             "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
+                "Allemagne",
+                "Italie",
+                "Japon",
+                "Royaume-Uni"
             ],
             "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
+                "Allemagne",
+                "Italie",
+                "Japon"
             ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a été le premier président des États-Unis ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Franklin Roosevelt"
             ],
-            "answer": 2
+            "answer": "George Washington"
+        },
+        {
+            "type": "vf",
+            "question": "La Révolution française a commencé en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+            "answer": "1945"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à l'île d'Elbe ?",
+            "answer": "Napoléon Bonaparte"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels pays faisaient partie de l'Axe pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Allemagne",
+                "Italie",
+                "Japon",
+                "Royaume-Uni"
+            ],
+            "answers": [
+                "Allemagne",
+                "Italie",
+                "Japon"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Qui a été le premier président des États-Unis ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Franklin Roosevelt"
             ],
-            "answer": 2
+            "answer": "George Washington"
+        },
+        {
+            "type": "vf",
+            "question": "La Révolution française a commencé en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+            "answer": "1945"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à l'île d'Elbe ?",
+            "answer": "Napoléon Bonaparte"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels pays faisaient partie de l'Axe pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Allemagne",
+                "Italie",
+                "Japon",
+                "Royaume-Uni"
+            ],
+            "answers": [
+                "Allemagne",
+                "Italie",
+                "Japon"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a été le premier président des États-Unis ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Franklin Roosevelt"
             ],
-            "answer": 2
+            "answer": "George Washington"
+        },
+        {
+            "type": "vf",
+            "question": "La Révolution française a commencé en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+            "answer": "1945"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à l'île d'Elbe ?",
+            "answer": "Napoléon Bonaparte"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels pays faisaient partie de l'Axe pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Allemagne",
+                "Italie",
+                "Japon",
+                "Royaume-Uni"
+            ],
+            "answers": [
+                "Allemagne",
+                "Italie",
+                "Japon"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Qui a été le premier président des États-Unis ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Franklin Roosevelt"
             ],
-            "answer": 2
+            "answer": "George Washington"
+        },
+        {
+            "type": "vf",
+            "question": "La Révolution française a commencé en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+            "answer": "1945"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à l'île d'Elbe ?",
+            "answer": "Napoléon Bonaparte"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels pays faisaient partie de l'Axe pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Allemagne",
+                "Italie",
+                "Japon",
+                "Royaume-Uni"
+            ],
+            "answers": [
+                "Allemagne",
+                "Italie",
+                "Japon"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a été le premier président des États-Unis ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Franklin Roosevelt"
             ],
-            "answer": 2
+            "answer": "George Washington"
+        },
+        {
+            "type": "vf",
+            "question": "La Révolution française a commencé en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+            "answer": "1945"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à l'île d'Elbe ?",
+            "answer": "Napoléon Bonaparte"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels pays faisaient partie de l'Axe pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Allemagne",
+                "Italie",
+                "Japon",
+                "Royaume-Uni"
+            ],
+            "answers": [
+                "Allemagne",
+                "Italie",
+                "Japon"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Qui a été le premier président des États-Unis ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Franklin Roosevelt"
             ],
-            "answer": 2
+            "answer": "George Washington"
+        },
+        {
+            "type": "vf",
+            "question": "La Révolution française a commencé en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+            "answer": "1945"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à l'île d'Elbe ?",
+            "answer": "Napoléon Bonaparte"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels pays faisaient partie de l'Axe pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Allemagne",
+                "Italie",
+                "Japon",
+                "Royaume-Uni"
+            ],
+            "answers": [
+                "Allemagne",
+                "Italie",
+                "Japon"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a été le premier président des États-Unis ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Franklin Roosevelt"
             ],
-            "answer": 2
+            "answer": "George Washington"
+        },
+        {
+            "type": "vf",
+            "question": "La Révolution française a commencé en 1789.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+            "answer": "1945"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à l'île d'Elbe ?",
+            "answer": "Napoléon Bonaparte"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels pays faisaient partie de l'Axe pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Allemagne",
+                "Italie",
+                "Japon",
+                "Royaume-Uni"
+            ],
+            "answers": [
+                "Allemagne",
+                "Italie",
+                "Japon"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a été le premier président des États-Unis ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Franklin Roosevelt"
             ],
-            "answer": 2
+            "answer": "George Washington"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "vf",
+            "question": "La Révolution française a commencé en 1789.",
+            "answer": "Vrai"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+            "answer": "1945"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à l'île d'Elbe ?",
+            "answer": "Napoléon Bonaparte"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "qcm",
+            "question": "Quels pays faisaient partie de l'Axe pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Allemagne",
+                "Italie",
+                "Japon",
+                "Royaume-Uni"
+            ],
+            "answers": [
+                "Allemagne",
+                "Italie",
+                "Japon"
+            ]
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "qcu",
+            "question": "Qui a été le premier président des États-Unis ?",
+            "options": [
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Franklin Roosevelt"
+            ],
+            "answer": "George Washington"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "vf",
+            "question": "La Révolution française a commencé en 1789.",
+            "answer": "Vrai"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin ?",
+            "answer": "1945"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "ouverte",
+            "question": "Quel empereur français a été exilé à l'île d'Elbe ?",
+            "answer": "Napoléon Bonaparte"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "qcm",
+            "question": "Quels pays faisaient partie de l'Axe pendant la Seconde Guerre mondiale ?",
+            "options": [
+                "Allemagne",
+                "Italie",
+                "Japon",
+                "Royaume-Uni"
+            ],
+            "answers": [
+                "Allemagne",
+                "Italie",
+                "Japon"
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Qui a été le premier président des États-Unis ?",
+            "options": [
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "Franklin Roosevelt"
+            ],
+            "answer": "George Washington"
+        },
+        {
+            "type": "vf",
+            "question": "La Révolution française a commencé en 1789.",
+            "answer": "Vrai"
         }
     ],
     "science": [
         {
             "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
+            "question": "Quel est l'élément chimique le plus léger ?",
+            "answer": "L'hydrogène"
         },
         {
             "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
+            "question": "Quelle planète est la plus proche du Soleil ?",
+            "answer": "Mercure"
         },
         {
             "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
+            "question": "Quels sont les états de la matière ?",
             "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
             ],
             "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
             ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel scientifique a formulé la théorie de la relativité ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Newton",
+                "Einstein",
+                "Galilée",
+                "Tesla"
             ],
-            "answer": 2
+            "answer": "Einstein"
+        },
+        {
+            "type": "vf",
+            "question": "L'eau bout à 100°C au niveau de la mer.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est l'élément chimique le plus léger ?",
+            "answer": "L'hydrogène"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle planète est la plus proche du Soleil ?",
+            "answer": "Mercure"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les états de la matière ?",
+            "options": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ],
+            "answers": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Quel scientifique a formulé la théorie de la relativité ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "Newton",
+                "Einstein",
+                "Galilée",
+                "Tesla"
             ],
-            "answer": 2
+            "answer": "Einstein"
+        },
+        {
+            "type": "vf",
+            "question": "L'eau bout à 100°C au niveau de la mer.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est l'élément chimique le plus léger ?",
+            "answer": "L'hydrogène"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle planète est la plus proche du Soleil ?",
+            "answer": "Mercure"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les états de la matière ?",
+            "options": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ],
+            "answers": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel scientifique a formulé la théorie de la relativité ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Newton",
+                "Einstein",
+                "Galilée",
+                "Tesla"
             ],
-            "answer": 2
+            "answer": "Einstein"
+        },
+        {
+            "type": "vf",
+            "question": "L'eau bout à 100°C au niveau de la mer.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est l'élément chimique le plus léger ?",
+            "answer": "L'hydrogène"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle planète est la plus proche du Soleil ?",
+            "answer": "Mercure"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les états de la matière ?",
+            "options": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ],
+            "answers": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Quel scientifique a formulé la théorie de la relativité ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "Newton",
+                "Einstein",
+                "Galilée",
+                "Tesla"
             ],
-            "answer": 2
+            "answer": "Einstein"
+        },
+        {
+            "type": "vf",
+            "question": "L'eau bout à 100°C au niveau de la mer.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est l'élément chimique le plus léger ?",
+            "answer": "L'hydrogène"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle planète est la plus proche du Soleil ?",
+            "answer": "Mercure"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les états de la matière ?",
+            "options": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ],
+            "answers": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel scientifique a formulé la théorie de la relativité ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Newton",
+                "Einstein",
+                "Galilée",
+                "Tesla"
             ],
-            "answer": 2
+            "answer": "Einstein"
+        },
+        {
+            "type": "vf",
+            "question": "L'eau bout à 100°C au niveau de la mer.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est l'élément chimique le plus léger ?",
+            "answer": "L'hydrogène"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle planète est la plus proche du Soleil ?",
+            "answer": "Mercure"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les états de la matière ?",
+            "options": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ],
+            "answers": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel scientifique a formulé la théorie de la relativité ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Newton",
+                "Einstein",
+                "Galilée",
+                "Tesla"
             ],
-            "answer": 2
+            "answer": "Einstein"
+        },
+        {
+            "type": "vf",
+            "question": "L'eau bout à 100°C au niveau de la mer.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est l'élément chimique le plus léger ?",
+            "answer": "L'hydrogène"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle planète est la plus proche du Soleil ?",
+            "answer": "Mercure"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les états de la matière ?",
+            "options": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ],
+            "answers": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel scientifique a formulé la théorie de la relativité ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Newton",
+                "Einstein",
+                "Galilée",
+                "Tesla"
             ],
-            "answer": 2
+            "answer": "Einstein"
+        },
+        {
+            "type": "vf",
+            "question": "L'eau bout à 100°C au niveau de la mer.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est l'élément chimique le plus léger ?",
+            "answer": "L'hydrogène"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quelle planète est la plus proche du Soleil ?",
+            "answer": "Mercure"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les états de la matière ?",
+            "options": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ],
+            "answers": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel scientifique a formulé la théorie de la relativité ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Newton",
+                "Einstein",
+                "Galilée",
+                "Tesla"
             ],
-            "answer": 2
+            "answer": "Einstein"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "vf",
+            "question": "L'eau bout à 100°C au niveau de la mer.",
+            "answer": "Vrai"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "Quel est l'élément chimique le plus léger ?",
+            "answer": "L'hydrogène"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "ouverte",
+            "question": "Quelle planète est la plus proche du Soleil ?",
+            "answer": "Mercure"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "qcm",
+            "question": "Quels sont les états de la matière ?",
+            "options": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ],
+            "answers": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ]
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "qcu",
+            "question": "Quel scientifique a formulé la théorie de la relativité ?",
+            "options": [
+                "Newton",
+                "Einstein",
+                "Galilée",
+                "Tesla"
+            ],
+            "answer": "Einstein"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "vf",
+            "question": "L'eau bout à 100°C au niveau de la mer.",
+            "answer": "Vrai"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "ouverte",
+            "question": "Quel est l'élément chimique le plus léger ?",
+            "answer": "L'hydrogène"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "Quelle planète est la plus proche du Soleil ?",
+            "answer": "Mercure"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "qcm",
+            "question": "Quels sont les états de la matière ?",
+            "options": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ],
+            "answers": [
+                "Solide",
+                "Liquide",
+                "Gaz",
+                "Plasma"
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Quel scientifique a formulé la théorie de la relativité ?",
+            "options": [
+                "Newton",
+                "Einstein",
+                "Galilée",
+                "Tesla"
+            ],
+            "answer": "Einstein"
+        },
+        {
+            "type": "vf",
+            "question": "L'eau bout à 100°C au niveau de la mer.",
+            "answer": "Vrai"
         }
     ],
     "sports": [
         {
             "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
+            "question": "Dans quel sport utilise-t-on une crosse et un palet ?",
+            "answer": "Le hockey sur glace"
         },
         {
             "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
+            "question": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+            "answer": "La France"
         },
         {
             "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
+            "question": "Quels sont des sports olympiques ?",
             "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
+                "Natation",
+                "Athlétisme",
+                "Echecs",
+                "Boxe"
             ],
             "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
+                "Natation",
+                "Athlétisme",
+                "Boxe"
             ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Quel joueur détient le record du plus grand nombre de Ballons d'Or ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "Cristiano Ronaldo",
+                "Pelé",
+                "Lionel Messi",
+                "Maradona"
             ],
-            "answer": 2
+            "answer": "Lionel Messi"
+        },
+        {
+            "type": "vf",
+            "question": "Le basket-ball a été inventé aux États-Unis.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Dans quel sport utilise-t-on une crosse et un palet ?",
+            "answer": "Le hockey sur glace"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+            "answer": "La France"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des sports olympiques ?",
+            "options": [
+                "Natation",
+                "Athlétisme",
+                "Echecs",
+                "Boxe"
+            ],
+            "answers": [
+                "Natation",
+                "Athlétisme",
+                "Boxe"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel joueur détient le record du plus grand nombre de Ballons d'Or ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Cristiano Ronaldo",
+                "Pelé",
+                "Lionel Messi",
+                "Maradona"
             ],
-            "answer": 2
+            "answer": "Lionel Messi"
+        },
+        {
+            "type": "vf",
+            "question": "Le basket-ball a été inventé aux États-Unis.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Dans quel sport utilise-t-on une crosse et un palet ?",
+            "answer": "Le hockey sur glace"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+            "answer": "La France"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des sports olympiques ?",
+            "options": [
+                "Natation",
+                "Athlétisme",
+                "Echecs",
+                "Boxe"
+            ],
+            "answers": [
+                "Natation",
+                "Athlétisme",
+                "Boxe"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Quel joueur détient le record du plus grand nombre de Ballons d'Or ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "Cristiano Ronaldo",
+                "Pelé",
+                "Lionel Messi",
+                "Maradona"
             ],
-            "answer": 2
+            "answer": "Lionel Messi"
+        },
+        {
+            "type": "vf",
+            "question": "Le basket-ball a été inventé aux États-Unis.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Dans quel sport utilise-t-on une crosse et un palet ?",
+            "answer": "Le hockey sur glace"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+            "answer": "La France"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des sports olympiques ?",
+            "options": [
+                "Natation",
+                "Athlétisme",
+                "Echecs",
+                "Boxe"
+            ],
+            "answers": [
+                "Natation",
+                "Athlétisme",
+                "Boxe"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel joueur détient le record du plus grand nombre de Ballons d'Or ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Cristiano Ronaldo",
+                "Pelé",
+                "Lionel Messi",
+                "Maradona"
             ],
-            "answer": 2
+            "answer": "Lionel Messi"
+        },
+        {
+            "type": "vf",
+            "question": "Le basket-ball a été inventé aux États-Unis.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Dans quel sport utilise-t-on une crosse et un palet ?",
+            "answer": "Le hockey sur glace"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+            "answer": "La France"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des sports olympiques ?",
+            "options": [
+                "Natation",
+                "Athlétisme",
+                "Echecs",
+                "Boxe"
+            ],
+            "answers": [
+                "Natation",
+                "Athlétisme",
+                "Boxe"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel joueur détient le record du plus grand nombre de Ballons d'Or ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Cristiano Ronaldo",
+                "Pelé",
+                "Lionel Messi",
+                "Maradona"
             ],
-            "answer": 2
+            "answer": "Lionel Messi"
+        },
+        {
+            "type": "vf",
+            "question": "Le basket-ball a été inventé aux États-Unis.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Dans quel sport utilise-t-on une crosse et un palet ?",
+            "answer": "Le hockey sur glace"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+            "answer": "La France"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des sports olympiques ?",
+            "options": [
+                "Natation",
+                "Athlétisme",
+                "Echecs",
+                "Boxe"
+            ],
+            "answers": [
+                "Natation",
+                "Athlétisme",
+                "Boxe"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel joueur détient le record du plus grand nombre de Ballons d'Or ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Cristiano Ronaldo",
+                "Pelé",
+                "Lionel Messi",
+                "Maradona"
             ],
-            "answer": 2
+            "answer": "Lionel Messi"
+        },
+        {
+            "type": "vf",
+            "question": "Le basket-ball a été inventé aux États-Unis.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Dans quel sport utilise-t-on une crosse et un palet ?",
+            "answer": "Le hockey sur glace"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+            "answer": "La France"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des sports olympiques ?",
+            "options": [
+                "Natation",
+                "Athlétisme",
+                "Echecs",
+                "Boxe"
+            ],
+            "answers": [
+                "Natation",
+                "Athlétisme",
+                "Boxe"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel joueur détient le record du plus grand nombre de Ballons d'Or ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Cristiano Ronaldo",
+                "Pelé",
+                "Lionel Messi",
+                "Maradona"
             ],
-            "answer": 2
+            "answer": "Lionel Messi"
+        },
+        {
+            "type": "vf",
+            "question": "Le basket-ball a été inventé aux États-Unis.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Dans quel sport utilise-t-on une crosse et un palet ?",
+            "answer": "Le hockey sur glace"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+            "answer": "La France"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des sports olympiques ?",
+            "options": [
+                "Natation",
+                "Athlétisme",
+                "Echecs",
+                "Boxe"
+            ],
+            "answers": [
+                "Natation",
+                "Athlétisme",
+                "Boxe"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel joueur détient le record du plus grand nombre de Ballons d'Or ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Cristiano Ronaldo",
+                "Pelé",
+                "Lionel Messi",
+                "Maradona"
             ],
-            "answer": 2
+            "answer": "Lionel Messi"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "vf",
+            "question": "Le basket-ball a été inventé aux États-Unis.",
+            "answer": "Vrai"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "Dans quel sport utilise-t-on une crosse et un palet ?",
+            "answer": "Le hockey sur glace"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "ouverte",
+            "question": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+            "answer": "La France"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "qcm",
+            "question": "Quels sont des sports olympiques ?",
+            "options": [
+                "Natation",
+                "Athlétisme",
+                "Echecs",
+                "Boxe"
+            ],
+            "answers": [
+                "Natation",
+                "Athlétisme",
+                "Boxe"
+            ]
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "qcu",
+            "question": "Quel joueur détient le record du plus grand nombre de Ballons d'Or ?",
+            "options": [
+                "Cristiano Ronaldo",
+                "Pelé",
+                "Lionel Messi",
+                "Maradona"
+            ],
+            "answer": "Lionel Messi"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "vf",
+            "question": "Le basket-ball a été inventé aux États-Unis.",
+            "answer": "Vrai"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "Dans quel sport utilise-t-on une crosse et un palet ?",
+            "answer": "Le hockey sur glace"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+            "answer": "La France"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "qcm",
+            "question": "Quels sont des sports olympiques ?",
+            "options": [
+                "Natation",
+                "Athlétisme",
+                "Echecs",
+                "Boxe"
+            ],
+            "answers": [
+                "Natation",
+                "Athlétisme",
+                "Boxe"
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Quel joueur détient le record du plus grand nombre de Ballons d'Or ?",
+            "options": [
+                "Cristiano Ronaldo",
+                "Pelé",
+                "Lionel Messi",
+                "Maradona"
+            ],
+            "answer": "Lionel Messi"
+        },
+        {
+            "type": "vf",
+            "question": "Le basket-ball a été inventé aux États-Unis.",
+            "answer": "Vrai"
         }
     ],
     "art": [
         {
             "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
+            "question": "Qui a peint la Joconde ?",
+            "answer": "Léonard de Vinci"
         },
         {
             "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
+            "question": "Quel est le plus grand musée du monde ?",
+            "answer": "Le Louvre"
         },
         {
             "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "question": "Quels sont des courants artistiques ?",
             "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
+                "Impressionnisme",
+                "Cubisme",
+                "Minimalisme",
+                "Romantisme"
             ],
             "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
+                "Impressionnisme",
+                "Cubisme",
+                "Romantisme"
             ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a écrit 'Roméo et Juliette' ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Shakespeare",
+                "Molière",
+                "Hugo",
+                "Dostoïevski"
             ],
-            "answer": 2
+            "answer": "Shakespeare"
+        },
+        {
+            "type": "vf",
+            "question": "Vincent van Gogh a peint 'La Nuit étoilée'.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a peint la Joconde ?",
+            "answer": "Léonard de Vinci"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand musée du monde ?",
+            "answer": "Le Louvre"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des courants artistiques ?",
+            "options": [
+                "Impressionnisme",
+                "Cubisme",
+                "Minimalisme",
+                "Romantisme"
+            ],
+            "answers": [
+                "Impressionnisme",
+                "Cubisme",
+                "Romantisme"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a écrit 'Roméo et Juliette' ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Shakespeare",
+                "Molière",
+                "Hugo",
+                "Dostoïevski"
             ],
-            "answer": 2
+            "answer": "Shakespeare"
+        },
+        {
+            "type": "vf",
+            "question": "Vincent van Gogh a peint 'La Nuit étoilée'.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a peint la Joconde ?",
+            "answer": "Léonard de Vinci"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand musée du monde ?",
+            "answer": "Le Louvre"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des courants artistiques ?",
+            "options": [
+                "Impressionnisme",
+                "Cubisme",
+                "Minimalisme",
+                "Romantisme"
+            ],
+            "answers": [
+                "Impressionnisme",
+                "Cubisme",
+                "Romantisme"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a écrit 'Roméo et Juliette' ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Shakespeare",
+                "Molière",
+                "Hugo",
+                "Dostoïevski"
             ],
-            "answer": 2
+            "answer": "Shakespeare"
+        },
+        {
+            "type": "vf",
+            "question": "Vincent van Gogh a peint 'La Nuit étoilée'.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a peint la Joconde ?",
+            "answer": "Léonard de Vinci"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand musée du monde ?",
+            "answer": "Le Louvre"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des courants artistiques ?",
+            "options": [
+                "Impressionnisme",
+                "Cubisme",
+                "Minimalisme",
+                "Romantisme"
+            ],
+            "answers": [
+                "Impressionnisme",
+                "Cubisme",
+                "Romantisme"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a écrit 'Roméo et Juliette' ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Shakespeare",
+                "Molière",
+                "Hugo",
+                "Dostoïevski"
             ],
-            "answer": 2
+            "answer": "Shakespeare"
+        },
+        {
+            "type": "vf",
+            "question": "Vincent van Gogh a peint 'La Nuit étoilée'.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a peint la Joconde ?",
+            "answer": "Léonard de Vinci"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand musée du monde ?",
+            "answer": "Le Louvre"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des courants artistiques ?",
+            "options": [
+                "Impressionnisme",
+                "Cubisme",
+                "Minimalisme",
+                "Romantisme"
+            ],
+            "answers": [
+                "Impressionnisme",
+                "Cubisme",
+                "Romantisme"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a écrit 'Roméo et Juliette' ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Shakespeare",
+                "Molière",
+                "Hugo",
+                "Dostoïevski"
             ],
-            "answer": 2
+            "answer": "Shakespeare"
+        },
+        {
+            "type": "vf",
+            "question": "Vincent van Gogh a peint 'La Nuit étoilée'.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a peint la Joconde ?",
+            "answer": "Léonard de Vinci"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand musée du monde ?",
+            "answer": "Le Louvre"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des courants artistiques ?",
+            "options": [
+                "Impressionnisme",
+                "Cubisme",
+                "Minimalisme",
+                "Romantisme"
+            ],
+            "answers": [
+                "Impressionnisme",
+                "Cubisme",
+                "Romantisme"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Qui a écrit 'Roméo et Juliette' ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "Shakespeare",
+                "Molière",
+                "Hugo",
+                "Dostoïevski"
             ],
-            "answer": 2
+            "answer": "Shakespeare"
+        },
+        {
+            "type": "vf",
+            "question": "Vincent van Gogh a peint 'La Nuit étoilée'.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a peint la Joconde ?",
+            "answer": "Léonard de Vinci"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand musée du monde ?",
+            "answer": "Le Louvre"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des courants artistiques ?",
+            "options": [
+                "Impressionnisme",
+                "Cubisme",
+                "Minimalisme",
+                "Romantisme"
+            ],
+            "answers": [
+                "Impressionnisme",
+                "Cubisme",
+                "Romantisme"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a écrit 'Roméo et Juliette' ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Shakespeare",
+                "Molière",
+                "Hugo",
+                "Dostoïevski"
             ],
-            "answer": 2
+            "answer": "Shakespeare"
+        },
+        {
+            "type": "vf",
+            "question": "Vincent van Gogh a peint 'La Nuit étoilée'.",
+            "answer": "Vrai"
+        },
+        {
+            "type": "ouverte",
+            "question": "Qui a peint la Joconde ?",
+            "answer": "Léonard de Vinci"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le plus grand musée du monde ?",
+            "answer": "Le Louvre"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des courants artistiques ?",
+            "options": [
+                "Impressionnisme",
+                "Cubisme",
+                "Minimalisme",
+                "Romantisme"
+            ],
+            "answers": [
+                "Impressionnisme",
+                "Cubisme",
+                "Romantisme"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Qui a écrit 'Roméo et Juliette' ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Shakespeare",
+                "Molière",
+                "Hugo",
+                "Dostoïevski"
             ],
-            "answer": 2
+            "answer": "Shakespeare"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "vf",
+            "question": "Vincent van Gogh a peint 'La Nuit étoilée'.",
+            "answer": "Vrai"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "ouverte",
+            "question": "Qui a peint la Joconde ?",
+            "answer": "Léonard de Vinci"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "Quel est le plus grand musée du monde ?",
+            "answer": "Le Louvre"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "qcm",
+            "question": "Quels sont des courants artistiques ?",
+            "options": [
+                "Impressionnisme",
+                "Cubisme",
+                "Minimalisme",
+                "Romantisme"
+            ],
+            "answers": [
+                "Impressionnisme",
+                "Cubisme",
+                "Romantisme"
+            ]
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "qcu",
+            "question": "Qui a écrit 'Roméo et Juliette' ?",
+            "options": [
+                "Shakespeare",
+                "Molière",
+                "Hugo",
+                "Dostoïevski"
+            ],
+            "answer": "Shakespeare"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "vf",
+            "question": "Vincent van Gogh a peint 'La Nuit étoilée'.",
+            "answer": "Vrai"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "ouverte",
+            "question": "Qui a peint la Joconde ?",
+            "answer": "Léonard de Vinci"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "Quel est le plus grand musée du monde ?",
+            "answer": "Le Louvre"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "qcm",
+            "question": "Quels sont des courants artistiques ?",
+            "options": [
+                "Impressionnisme",
+                "Cubisme",
+                "Minimalisme",
+                "Romantisme"
+            ],
+            "answers": [
+                "Impressionnisme",
+                "Cubisme",
+                "Romantisme"
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Qui a écrit 'Roméo et Juliette' ?",
+            "options": [
+                "Shakespeare",
+                "Molière",
+                "Hugo",
+                "Dostoïevski"
+            ],
+            "answer": "Shakespeare"
+        },
+        {
+            "type": "vf",
+            "question": "Vincent van Gogh a peint 'La Nuit étoilée'.",
+            "answer": "Vrai"
         }
     ],
     "divert": [
         {
             "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
+            "question": "Quel est le film le plus rentable de tous les temps ?",
+            "answer": "Avatar"
         },
         {
             "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la plus longue rivière du monde ?",
-            "answer": "Le Nil"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle est la capitale de l'Australie ?",
-            "answer": "Canberra"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand désert du monde ?",
-            "answer": "L'Antarctique"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel pays a la plus grande population ?",
-            "answer": "La Chine"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel est le plus grand océan de la planète ?",
-            "answer": "L'océan Pacifique"
+            "question": "Quel super-héros est aussi appelé 'l'homme chauve-souris' ?",
+            "answer": "Batman"
         },
         {
             "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
+            "question": "Quels sont des jeux vidéo populaires ?",
             "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
+                "Minecraft",
+                "FIFA",
+                "Tetris",
+                "Monopoly"
             ],
             "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quelles villes sont en Italie ?",
-            "options": [
-                "Rome",
-                "Milan",
-                "Naples",
-                "Madrid"
-            ],
-            "answers": [
-                0,
-                1,
-                2
-            ]
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont des pays d'Amérique du Sud ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Chili",
-                "Canada"
-            ],
-            "answers": [
-                0,
-                1,
-                2
+                "Minecraft",
+                "FIFA",
+                "Tetris"
             ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Quel studio a produit le film 'Toy Story' ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "Disney",
+                "Pixar",
+                "DreamWorks",
+                "Warner Bros"
             ],
-            "answer": 2
+            "answer": "Pixar"
+        },
+        {
+            "type": "vf",
+            "question": "Harry Potter est un personnage de Tolkien.",
+            "answer": "Faux"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le film le plus rentable de tous les temps ?",
+            "answer": "Avatar"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel super-héros est aussi appelé 'l'homme chauve-souris' ?",
+            "answer": "Batman"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des jeux vidéo populaires ?",
+            "options": [
+                "Minecraft",
+                "FIFA",
+                "Tetris",
+                "Monopoly"
+            ],
+            "answers": [
+                "Minecraft",
+                "FIFA",
+                "Tetris"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Quel studio a produit le film 'Toy Story' ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "Disney",
+                "Pixar",
+                "DreamWorks",
+                "Warner Bros"
             ],
-            "answer": 2
+            "answer": "Pixar"
+        },
+        {
+            "type": "vf",
+            "question": "Harry Potter est un personnage de Tolkien.",
+            "answer": "Faux"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le film le plus rentable de tous les temps ?",
+            "answer": "Avatar"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel super-héros est aussi appelé 'l'homme chauve-souris' ?",
+            "answer": "Batman"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des jeux vidéo populaires ?",
+            "options": [
+                "Minecraft",
+                "FIFA",
+                "Tetris",
+                "Monopoly"
+            ],
+            "answers": [
+                "Minecraft",
+                "FIFA",
+                "Tetris"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Quel studio a produit le film 'Toy Story' ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "Disney",
+                "Pixar",
+                "DreamWorks",
+                "Warner Bros"
             ],
-            "answer": 2
+            "answer": "Pixar"
+        },
+        {
+            "type": "vf",
+            "question": "Harry Potter est un personnage de Tolkien.",
+            "answer": "Faux"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le film le plus rentable de tous les temps ?",
+            "answer": "Avatar"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel super-héros est aussi appelé 'l'homme chauve-souris' ?",
+            "answer": "Batman"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des jeux vidéo populaires ?",
+            "options": [
+                "Minecraft",
+                "FIFA",
+                "Tetris",
+                "Monopoly"
+            ],
+            "answers": [
+                "Minecraft",
+                "FIFA",
+                "Tetris"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel studio a produit le film 'Toy Story' ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Disney",
+                "Pixar",
+                "DreamWorks",
+                "Warner Bros"
             ],
-            "answer": 2
+            "answer": "Pixar"
+        },
+        {
+            "type": "vf",
+            "question": "Harry Potter est un personnage de Tolkien.",
+            "answer": "Faux"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le film le plus rentable de tous les temps ?",
+            "answer": "Avatar"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel super-héros est aussi appelé 'l'homme chauve-souris' ?",
+            "answer": "Batman"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des jeux vidéo populaires ?",
+            "options": [
+                "Minecraft",
+                "FIFA",
+                "Tetris",
+                "Monopoly"
+            ],
+            "answers": [
+                "Minecraft",
+                "FIFA",
+                "Tetris"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Où se trouve la Tour Eiffel ?",
+            "question": "Quel studio a produit le film 'Toy Story' ?",
             "options": [
-                "Berlin",
-                "Londres",
-                "Paris",
-                "Rome"
+                "Disney",
+                "Pixar",
+                "DreamWorks",
+                "Warner Bros"
             ],
-            "answer": 2
+            "answer": "Pixar"
+        },
+        {
+            "type": "vf",
+            "question": "Harry Potter est un personnage de Tolkien.",
+            "answer": "Faux"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le film le plus rentable de tous les temps ?",
+            "answer": "Avatar"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel super-héros est aussi appelé 'l'homme chauve-souris' ?",
+            "answer": "Batman"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des jeux vidéo populaires ?",
+            "options": [
+                "Minecraft",
+                "FIFA",
+                "Tetris",
+                "Monopoly"
+            ],
+            "answers": [
+                "Minecraft",
+                "FIFA",
+                "Tetris"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel studio a produit le film 'Toy Story' ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Disney",
+                "Pixar",
+                "DreamWorks",
+                "Warner Bros"
             ],
-            "answer": 2
+            "answer": "Pixar"
+        },
+        {
+            "type": "vf",
+            "question": "Harry Potter est un personnage de Tolkien.",
+            "answer": "Faux"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le film le plus rentable de tous les temps ?",
+            "answer": "Avatar"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel super-héros est aussi appelé 'l'homme chauve-souris' ?",
+            "answer": "Batman"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des jeux vidéo populaires ?",
+            "options": [
+                "Minecraft",
+                "FIFA",
+                "Tetris",
+                "Monopoly"
+            ],
+            "answers": [
+                "Minecraft",
+                "FIFA",
+                "Tetris"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel studio a produit le film 'Toy Story' ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Disney",
+                "Pixar",
+                "DreamWorks",
+                "Warner Bros"
             ],
-            "answer": 2
+            "answer": "Pixar"
+        },
+        {
+            "type": "vf",
+            "question": "Harry Potter est un personnage de Tolkien.",
+            "answer": "Faux"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel est le film le plus rentable de tous les temps ?",
+            "answer": "Avatar"
+        },
+        {
+            "type": "ouverte",
+            "question": "Quel super-héros est aussi appelé 'l'homme chauve-souris' ?",
+            "answer": "Batman"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des jeux vidéo populaires ?",
+            "options": [
+                "Minecraft",
+                "FIFA",
+                "Tetris",
+                "Monopoly"
+            ],
+            "answers": [
+                "Minecraft",
+                "FIFA",
+                "Tetris"
+            ]
         },
         {
             "type": "qcu",
-            "question": "Quel est le plus haut sommet du monde ?",
+            "question": "Quel studio a produit le film 'Toy Story' ?",
             "options": [
-                "Mont Blanc",
-                "Kilimandjaro",
-                "Everest",
-                "Aconcagua"
+                "Disney",
+                "Pixar",
+                "DreamWorks",
+                "Warner Bros"
             ],
-            "answer": 2
+            "answer": "Pixar"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "vf",
+            "question": "Harry Potter est un personnage de Tolkien.",
+            "answer": "Faux"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "Quel est le film le plus rentable de tous les temps ?",
+            "answer": "Avatar"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "ouverte",
+            "question": "Quel super-héros est aussi appelé 'l'homme chauve-souris' ?",
+            "answer": "Batman"
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "qcm",
+            "question": "Quels sont des jeux vidéo populaires ?",
+            "options": [
+                "Minecraft",
+                "FIFA",
+                "Tetris",
+                "Monopoly"
+            ],
+            "answers": [
+                "Minecraft",
+                "FIFA",
+                "Tetris"
+            ]
         },
         {
-            "type": "vrai_faux",
-            "question": "L'Australie est un continent.",
-            "answer": true
+            "type": "qcu",
+            "question": "Quel studio a produit le film 'Toy Story' ?",
+            "options": [
+                "Disney",
+                "Pixar",
+                "DreamWorks",
+                "Warner Bros"
+            ],
+            "answer": "Pixar"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "vf",
+            "question": "Harry Potter est un personnage de Tolkien.",
+            "answer": "Faux"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "Quel est le film le plus rentable de tous les temps ?",
+            "answer": "Avatar"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "ouverte",
+            "question": "Quel super-héros est aussi appelé 'l'homme chauve-souris' ?",
+            "answer": "Batman"
         },
         {
-            "type": "vrai_faux",
-            "question": "Le Nil traverse le Brésil.",
-            "answer": false
+            "type": "qcm",
+            "question": "Quels sont des jeux vidéo populaires ?",
+            "options": [
+                "Minecraft",
+                "FIFA",
+                "Tetris",
+                "Monopoly"
+            ],
+            "answers": [
+                "Minecraft",
+                "FIFA",
+                "Tetris"
+            ]
+        },
+        {
+            "type": "qcu",
+            "question": "Quel studio a produit le film 'Toy Story' ?",
+            "options": [
+                "Disney",
+                "Pixar",
+                "DreamWorks",
+                "Warner Bros"
+            ],
+            "answer": "Pixar"
+        },
+        {
+            "type": "vf",
+            "question": "Harry Potter est un personnage de Tolkien.",
+            "answer": "Faux"
         }
     ]
 }
