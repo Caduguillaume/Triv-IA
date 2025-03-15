@@ -1,770 +1,761 @@
 {
-    "Histoire": [
+    "geo": [
         {
+            "question": "Quelle est la capitale de l'Australie ?",
             "type": "ouverte",
-            "question": "Quelle est la date de la prise de la Bastille ?"
+            "answer": "Canberra"
         },
         {
+            "question": "Quel est le plus long fleuve du monde ?",
             "type": "ouverte",
-            "question": "Qui était le premier président des États-Unis ?"
+            "answer": "Le Nil"
         },
         {
-            "type": "ouverte",
-            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui était le roi de France pendant la Révolution française ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel événement historique est célébré le 14 juillet en France ?"
-        },
-        {
-            "type": "qcm",
-            "question": "Qui a découvert l’Amérique ?",
+            "question": "Le mont Everest est la plus haute montagne du monde.",
+            "type": "vf",
             "options": [
-                "Christophe Colomb",
-                "Vasco de Gama",
-                "Magellan",
-                "Marco Polo"
+                "Vrai",
+                "Faux"
             ],
-            "answer": "Christophe Colomb"
-        },
-        {
-            "type": "qcm",
-            "question": "Quel pays a construit la Grande Muraille ?",
-            "options": [
-                "Chine",
-                "Japon",
-                "Inde",
-                "Mongolie"
-            ],
-            "answer": "Chine"
-        },
-        {
-            "type": "qcm",
-            "question": "Quelle bataille a marqué la fin de Napoléon ?",
-            "options": [
-                "Waterloo",
-                "Austerlitz",
-                "Trafalgar",
-                "Iéna"
-            ],
-            "answer": "Waterloo"
-        },
-        {
-            "type": "qcu",
-            "question": "Qui a aboli l’esclavage en France ?",
-            "options": [
-                "Robespierre",
-                "Napoléon",
-                "Victor Schoelcher",
-                "Louis XIV"
-            ],
-            "answer": "Victor Schoelcher"
-        },
-        {
-            "type": "qcu",
-            "question": "Quel mur est tombé en 1989 ?",
-            "options": [
-                "Mur de Berlin",
-                "Mur d’Hadrien",
-                "Muraille de Chine",
-                "Mur de la honte"
-            ],
-            "answer": "Mur de Berlin"
-        },
-        {
-            "type": "qcu",
-            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
-            "options": [
-                "Roosevelt",
-                "Truman",
-                "Eisenhower",
-                "Kennedy"
-            ],
-            "answer": "Roosevelt"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "La Révolution française a eu lieu en 1789.",
             "answer": "Vrai"
         },
         {
-            "type": "vrai/faux",
-            "question": "Cléopâtre était une reine romaine.",
-            "answer": "Faux"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
+            "question": "Le mont Everest est la plus haute montagne du monde.",
+            "type": "vf",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
             "answer": "Vrai"
         },
         {
-            "type": "vrai/faux",
-            "question": "L’empire inca était situé en Afrique.",
-            "answer": "Faux"
+            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Italie",
+                "Belgique",
+                "Pologne"
+            ],
+            "answer": [
+                "France",
+                "Belgique",
+                "Pologne"
+            ]
+        },
+        {
+            "question": "Quelle est la capitale du Canada ?",
+            "type": "qcm",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montréal"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "Le mont Everest est la plus haute montagne du monde.",
+            "type": "vf",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "answer": "Vrai"
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Italie",
+                "Belgique",
+                "Pologne"
+            ],
+            "answer": [
+                "France",
+                "Belgique",
+                "Pologne"
+            ]
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Quelle est la capitale du Canada ?",
+            "type": "qcm",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montréal"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Le mont Everest est la plus haute montagne du monde.",
+            "type": "vf",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "answer": "Vrai"
+        },
+        {
+            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Italie",
+                "Belgique",
+                "Pologne"
+            ],
+            "answer": [
+                "France",
+                "Belgique",
+                "Pologne"
+            ]
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Italie",
+                "Belgique",
+                "Pologne"
+            ],
+            "answer": [
+                "France",
+                "Belgique",
+                "Pologne"
+            ]
+        },
+        {
+            "question": "Quelle est la capitale du Canada ?",
+            "type": "qcm",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montréal"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Le mont Everest est la plus haute montagne du monde.",
+            "type": "vf",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "answer": "Vrai"
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Le mont Everest est la plus haute montagne du monde.",
+            "type": "vf",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "answer": "Vrai"
+        },
+        {
+            "question": "Quelle est la capitale du Canada ?",
+            "type": "qcm",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montréal"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Quelle est la capitale du Canada ?",
+            "type": "qcm",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montréal"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Italie",
+                "Belgique",
+                "Pologne"
+            ],
+            "answer": [
+                "France",
+                "Belgique",
+                "Pologne"
+            ]
+        },
+        {
+            "question": "Quelle est la capitale du Canada ?",
+            "type": "qcm",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montréal"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Quelle est la capitale du Canada ?",
+            "type": "qcm",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montréal"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "Le mont Everest est la plus haute montagne du monde.",
+            "type": "vf",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "answer": "Vrai"
+        },
+        {
+            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Italie",
+                "Belgique",
+                "Pologne"
+            ],
+            "answer": [
+                "France",
+                "Belgique",
+                "Pologne"
+            ]
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Quelle est la capitale du Canada ?",
+            "type": "qcm",
+            "options": [
+                "Toronto",
+                "Vancouver",
+                "Ottawa",
+                "Montréal"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "Le mont Everest est la plus haute montagne du monde.",
+            "type": "vf",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "answer": "Vrai"
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Quel est le plus long fleuve du monde ?",
+            "type": "ouverte",
+            "answer": "Le Nil"
+        },
+        {
+            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Italie",
+                "Belgique",
+                "Pologne"
+            ],
+            "answer": [
+                "France",
+                "Belgique",
+                "Pologne"
+            ]
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
+        },
+        {
+            "question": "Quels pays partagent une frontière avec l'Allemagne ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Italie",
+                "Belgique",
+                "Pologne"
+            ],
+            "answer": [
+                "France",
+                "Belgique",
+                "Pologne"
+            ]
+        },
+        {
+            "question": "Quelle est la capitale de l'Australie ?",
+            "type": "ouverte",
+            "answer": "Canberra"
         }
     ],
-    "Geographie": [
+    "hist": [
         {
-            "type": "ouverte",
-            "question": "Quelle est la date de la prise de la Bastille ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui était le premier président des États-Unis ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui était le roi de France pendant la Révolution française ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel événement historique est célébré le 14 juillet en France ?"
-        },
-        {
-            "type": "qcm",
-            "question": "Qui a découvert l’Amérique ?",
+            "question": "Napoléon Bonaparte est mort en 1815.",
+            "type": "vf",
             "options": [
-                "Christophe Colomb",
-                "Vasco de Gama",
-                "Magellan",
-                "Marco Polo"
+                "Vrai",
+                "Faux"
             ],
-            "answer": "Christophe Colomb"
-        },
-        {
-            "type": "qcm",
-            "question": "Quel pays a construit la Grande Muraille ?",
-            "options": [
-                "Chine",
-                "Japon",
-                "Inde",
-                "Mongolie"
-            ],
-            "answer": "Chine"
-        },
-        {
-            "type": "qcm",
-            "question": "Quelle bataille a marqué la fin de Napoléon ?",
-            "options": [
-                "Waterloo",
-                "Austerlitz",
-                "Trafalgar",
-                "Iéna"
-            ],
-            "answer": "Waterloo"
-        },
-        {
-            "type": "qcu",
-            "question": "Qui a aboli l’esclavage en France ?",
-            "options": [
-                "Robespierre",
-                "Napoléon",
-                "Victor Schoelcher",
-                "Louis XIV"
-            ],
-            "answer": "Victor Schoelcher"
-        },
-        {
-            "type": "qcu",
-            "question": "Quel mur est tombé en 1989 ?",
-            "options": [
-                "Mur de Berlin",
-                "Mur d’Hadrien",
-                "Muraille de Chine",
-                "Mur de la honte"
-            ],
-            "answer": "Mur de Berlin"
-        },
-        {
-            "type": "qcu",
-            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
-            "options": [
-                "Roosevelt",
-                "Truman",
-                "Eisenhower",
-                "Kennedy"
-            ],
-            "answer": "Roosevelt"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "La Révolution française a eu lieu en 1789.",
-            "answer": "Vrai"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "Cléopâtre était une reine romaine.",
             "answer": "Faux"
         },
         {
-            "type": "vrai/faux",
-            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
-            "answer": "Vrai"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "L’empire inca était situé en Afrique.",
-            "answer": "Faux"
-        }
-    ],
-    "Science et nature": [
-        {
+            "question": "En quelle année a eu lieu la Révolution française ?",
             "type": "ouverte",
-            "question": "Quelle est la date de la prise de la Bastille ?"
+            "answer": "1789"
         },
         {
+            "question": "En quelle année a eu lieu la Révolution française ?",
             "type": "ouverte",
-            "question": "Qui était le premier président des États-Unis ?"
+            "answer": "1789"
         },
         {
+            "question": "En quelle année a eu lieu la Révolution française ?",
             "type": "ouverte",
-            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
+            "answer": "1789"
         },
         {
-            "type": "ouverte",
-            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui était le roi de France pendant la Révolution française ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel événement historique est célébré le 14 juillet en France ?"
-        },
-        {
-            "type": "qcm",
-            "question": "Qui a découvert l’Amérique ?",
+            "question": "Napoléon Bonaparte est mort en 1815.",
+            "type": "vf",
             "options": [
-                "Christophe Colomb",
-                "Vasco de Gama",
-                "Magellan",
-                "Marco Polo"
+                "Vrai",
+                "Faux"
             ],
-            "answer": "Christophe Colomb"
-        },
-        {
-            "type": "qcm",
-            "question": "Quel pays a construit la Grande Muraille ?",
-            "options": [
-                "Chine",
-                "Japon",
-                "Inde",
-                "Mongolie"
-            ],
-            "answer": "Chine"
-        },
-        {
-            "type": "qcm",
-            "question": "Quelle bataille a marqué la fin de Napoléon ?",
-            "options": [
-                "Waterloo",
-                "Austerlitz",
-                "Trafalgar",
-                "Iéna"
-            ],
-            "answer": "Waterloo"
-        },
-        {
-            "type": "qcu",
-            "question": "Qui a aboli l’esclavage en France ?",
-            "options": [
-                "Robespierre",
-                "Napoléon",
-                "Victor Schoelcher",
-                "Louis XIV"
-            ],
-            "answer": "Victor Schoelcher"
-        },
-        {
-            "type": "qcu",
-            "question": "Quel mur est tombé en 1989 ?",
-            "options": [
-                "Mur de Berlin",
-                "Mur d’Hadrien",
-                "Muraille de Chine",
-                "Mur de la honte"
-            ],
-            "answer": "Mur de Berlin"
-        },
-        {
-            "type": "qcu",
-            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
-            "options": [
-                "Roosevelt",
-                "Truman",
-                "Eisenhower",
-                "Kennedy"
-            ],
-            "answer": "Roosevelt"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "La Révolution française a eu lieu en 1789.",
-            "answer": "Vrai"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "Cléopâtre était une reine romaine.",
             "answer": "Faux"
         },
         {
-            "type": "vrai/faux",
-            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
-            "answer": "Vrai"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "L’empire inca était situé en Afrique.",
-            "answer": "Faux"
-        }
-    ],
-    "Sport et loisirs": [
-        {
+            "question": "En quelle année a eu lieu la Révolution française ?",
             "type": "ouverte",
-            "question": "Quelle est la date de la prise de la Bastille ?"
+            "answer": "1789"
         },
         {
-            "type": "ouverte",
-            "question": "Qui était le premier président des États-Unis ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui était le roi de France pendant la Révolution française ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel événement historique est célébré le 14 juillet en France ?"
-        },
-        {
+            "question": "Qui a été le premier président des États-Unis ?",
             "type": "qcm",
-            "question": "Qui a découvert l’Amérique ?",
             "options": [
-                "Christophe Colomb",
-                "Vasco de Gama",
-                "Magellan",
-                "Marco Polo"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "John Adams"
             ],
-            "answer": "Christophe Colomb"
+            "answer": "George Washington"
         },
         {
-            "type": "qcm",
-            "question": "Quel pays a construit la Grande Muraille ?",
+            "question": "Napoléon Bonaparte est mort en 1815.",
+            "type": "vf",
             "options": [
-                "Chine",
-                "Japon",
-                "Inde",
-                "Mongolie"
+                "Vrai",
+                "Faux"
             ],
-            "answer": "Chine"
-        },
-        {
-            "type": "qcm",
-            "question": "Quelle bataille a marqué la fin de Napoléon ?",
-            "options": [
-                "Waterloo",
-                "Austerlitz",
-                "Trafalgar",
-                "Iéna"
-            ],
-            "answer": "Waterloo"
-        },
-        {
-            "type": "qcu",
-            "question": "Qui a aboli l’esclavage en France ?",
-            "options": [
-                "Robespierre",
-                "Napoléon",
-                "Victor Schoelcher",
-                "Louis XIV"
-            ],
-            "answer": "Victor Schoelcher"
-        },
-        {
-            "type": "qcu",
-            "question": "Quel mur est tombé en 1989 ?",
-            "options": [
-                "Mur de Berlin",
-                "Mur d’Hadrien",
-                "Muraille de Chine",
-                "Mur de la honte"
-            ],
-            "answer": "Mur de Berlin"
-        },
-        {
-            "type": "qcu",
-            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
-            "options": [
-                "Roosevelt",
-                "Truman",
-                "Eisenhower",
-                "Kennedy"
-            ],
-            "answer": "Roosevelt"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "La Révolution française a eu lieu en 1789.",
-            "answer": "Vrai"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "Cléopâtre était une reine romaine.",
             "answer": "Faux"
         },
         {
-            "type": "vrai/faux",
-            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
-            "answer": "Vrai"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "L’empire inca était situé en Afrique.",
-            "answer": "Faux"
-        }
-    ],
-    "Art et littérature": [
-        {
-            "type": "ouverte",
-            "question": "Quelle est la date de la prise de la Bastille ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui était le premier président des États-Unis ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui était le roi de France pendant la Révolution française ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel événement historique est célébré le 14 juillet en France ?"
-        },
-        {
+            "question": "Qui a été le premier président des États-Unis ?",
             "type": "qcm",
-            "question": "Qui a découvert l’Amérique ?",
             "options": [
-                "Christophe Colomb",
-                "Vasco de Gama",
-                "Magellan",
-                "Marco Polo"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "John Adams"
             ],
-            "answer": "Christophe Colomb"
+            "answer": "George Washington"
         },
         {
+            "question": "Qui a été le premier président des États-Unis ?",
             "type": "qcm",
-            "question": "Quel pays a construit la Grande Muraille ?",
             "options": [
-                "Chine",
-                "Japon",
-                "Inde",
-                "Mongolie"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "John Adams"
             ],
-            "answer": "Chine"
+            "answer": "George Washington"
         },
         {
+            "question": "En quelle année a eu lieu la Révolution française ?",
+            "type": "ouverte",
+            "answer": "1789"
+        },
+        {
+            "question": "Qui a été le premier président des États-Unis ?",
             "type": "qcm",
-            "question": "Quelle bataille a marqué la fin de Napoléon ?",
             "options": [
-                "Waterloo",
-                "Austerlitz",
-                "Trafalgar",
-                "Iéna"
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "John Adams"
             ],
-            "answer": "Waterloo"
+            "answer": "George Washington"
         },
         {
-            "type": "qcu",
-            "question": "Qui a aboli l’esclavage en France ?",
+            "question": "Napoléon Bonaparte est mort en 1815.",
+            "type": "vf",
             "options": [
-                "Robespierre",
-                "Napoléon",
-                "Victor Schoelcher",
-                "Louis XIV"
+                "Vrai",
+                "Faux"
             ],
-            "answer": "Victor Schoelcher"
-        },
-        {
-            "type": "qcu",
-            "question": "Quel mur est tombé en 1989 ?",
-            "options": [
-                "Mur de Berlin",
-                "Mur d’Hadrien",
-                "Muraille de Chine",
-                "Mur de la honte"
-            ],
-            "answer": "Mur de Berlin"
-        },
-        {
-            "type": "qcu",
-            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
-            "options": [
-                "Roosevelt",
-                "Truman",
-                "Eisenhower",
-                "Kennedy"
-            ],
-            "answer": "Roosevelt"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "La Révolution française a eu lieu en 1789.",
-            "answer": "Vrai"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "Cléopâtre était une reine romaine.",
             "answer": "Faux"
         },
         {
-            "type": "vrai/faux",
-            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
-            "answer": "Vrai"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "L’empire inca était situé en Afrique.",
-            "answer": "Faux"
-        }
-    ],
-    "Divertissement": [
-        {
+            "question": "En quelle année a eu lieu la Révolution française ?",
             "type": "ouverte",
-            "question": "Quelle est la date de la prise de la Bastille ?"
+            "answer": "1789"
         },
         {
-            "type": "ouverte",
-            "question": "Qui était le premier président des États-Unis ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quelle guerre a opposé le Nord et le Sud aux États-Unis ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel empereur français a été exilé à Sainte-Hélène ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année a eu lieu la chute de l’Empire romain d’Occident ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel traité a mis fin à la Première Guerre mondiale ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui était le roi de France pendant la Révolution française ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "En quelle année l’homme a-t-il marché sur la Lune ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Qui a écrit la Déclaration des Droits de l’Homme et du Citoyen ?"
-        },
-        {
-            "type": "ouverte",
-            "question": "Quel événement historique est célébré le 14 juillet en France ?"
-        },
-        {
-            "type": "qcm",
-            "question": "Qui a découvert l’Amérique ?",
-            "options": [
-                "Christophe Colomb",
-                "Vasco de Gama",
-                "Magellan",
-                "Marco Polo"
-            ],
-            "answer": "Christophe Colomb"
-        },
-        {
-            "type": "qcm",
-            "question": "Quel pays a construit la Grande Muraille ?",
-            "options": [
-                "Chine",
-                "Japon",
-                "Inde",
-                "Mongolie"
-            ],
-            "answer": "Chine"
-        },
-        {
-            "type": "qcm",
-            "question": "Quelle bataille a marqué la fin de Napoléon ?",
-            "options": [
-                "Waterloo",
-                "Austerlitz",
-                "Trafalgar",
-                "Iéna"
-            ],
-            "answer": "Waterloo"
-        },
-        {
+            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
             "type": "qcu",
-            "question": "Qui a aboli l’esclavage en France ?",
             "options": [
-                "Robespierre",
-                "Napoléon",
-                "Victor Schoelcher",
-                "Louis XIV"
+                "France",
+                "Allemagne",
+                "Brésil",
+                "Japon"
             ],
-            "answer": "Victor Schoelcher"
+            "answer": [
+                "France",
+                "Allemagne",
+                "Japon"
+            ]
         },
         {
+            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
             "type": "qcu",
-            "question": "Quel mur est tombé en 1989 ?",
             "options": [
-                "Mur de Berlin",
-                "Mur d’Hadrien",
-                "Muraille de Chine",
-                "Mur de la honte"
+                "France",
+                "Allemagne",
+                "Brésil",
+                "Japon"
             ],
-            "answer": "Mur de Berlin"
+            "answer": [
+                "France",
+                "Allemagne",
+                "Japon"
+            ]
         },
         {
-            "type": "qcu",
-            "question": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
+            "question": "Napoléon Bonaparte est mort en 1815.",
+            "type": "vf",
             "options": [
-                "Roosevelt",
-                "Truman",
-                "Eisenhower",
-                "Kennedy"
+                "Vrai",
+                "Faux"
             ],
-            "answer": "Roosevelt"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "La Révolution française a eu lieu en 1789.",
-            "answer": "Vrai"
-        },
-        {
-            "type": "vrai/faux",
-            "question": "Cléopâtre était une reine romaine.",
             "answer": "Faux"
         },
         {
-            "type": "vrai/faux",
-            "question": "La Guerre froide a opposé les États-Unis et l’Union soviétique.",
-            "answer": "Vrai"
+            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Allemagne",
+                "Brésil",
+                "Japon"
+            ],
+            "answer": [
+                "France",
+                "Allemagne",
+                "Japon"
+            ]
         },
         {
-            "type": "vrai/faux",
-            "question": "L’empire inca était situé en Afrique.",
+            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Allemagne",
+                "Brésil",
+                "Japon"
+            ],
+            "answer": [
+                "France",
+                "Allemagne",
+                "Japon"
+            ]
+        },
+        {
+            "question": "En quelle année a eu lieu la Révolution française ?",
+            "type": "ouverte",
+            "answer": "1789"
+        },
+        {
+            "question": "Napoléon Bonaparte est mort en 1815.",
+            "type": "vf",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
             "answer": "Faux"
+        },
+        {
+            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Allemagne",
+                "Brésil",
+                "Japon"
+            ],
+            "answer": [
+                "France",
+                "Allemagne",
+                "Japon"
+            ]
+        },
+        {
+            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Allemagne",
+                "Brésil",
+                "Japon"
+            ],
+            "answer": [
+                "France",
+                "Allemagne",
+                "Japon"
+            ]
+        },
+        {
+            "question": "En quelle année a eu lieu la Révolution française ?",
+            "type": "ouverte",
+            "answer": "1789"
+        },
+        {
+            "question": "En quelle année a eu lieu la Révolution française ?",
+            "type": "ouverte",
+            "answer": "1789"
+        },
+        {
+            "question": "Qui a été le premier président des États-Unis ?",
+            "type": "qcm",
+            "options": [
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "John Adams"
+            ],
+            "answer": "George Washington"
+        },
+        {
+            "question": "Qui a été le premier président des États-Unis ?",
+            "type": "qcm",
+            "options": [
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "John Adams"
+            ],
+            "answer": "George Washington"
+        },
+        {
+            "question": "En quelle année a eu lieu la Révolution française ?",
+            "type": "ouverte",
+            "answer": "1789"
+        },
+        {
+            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Allemagne",
+                "Brésil",
+                "Japon"
+            ],
+            "answer": [
+                "France",
+                "Allemagne",
+                "Japon"
+            ]
+        },
+        {
+            "question": "En quelle année a eu lieu la Révolution française ?",
+            "type": "ouverte",
+            "answer": "1789"
+        },
+        {
+            "question": "En quelle année a eu lieu la Révolution française ?",
+            "type": "ouverte",
+            "answer": "1789"
+        },
+        {
+            "question": "Quels pays ont participé à la Seconde Guerre mondiale ?",
+            "type": "qcu",
+            "options": [
+                "France",
+                "Allemagne",
+                "Brésil",
+                "Japon"
+            ],
+            "answer": [
+                "France",
+                "Allemagne",
+                "Japon"
+            ]
+        },
+        {
+            "question": "Napoléon Bonaparte est mort en 1815.",
+            "type": "vf",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "answer": "Faux"
+        },
+        {
+            "question": "Napoléon Bonaparte est mort en 1815.",
+            "type": "vf",
+            "options": [
+                "Vrai",
+                "Faux"
+            ],
+            "answer": "Faux"
+        },
+        {
+            "question": "Qui a été le premier président des États-Unis ?",
+            "type": "qcm",
+            "options": [
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "John Adams"
+            ],
+            "answer": "George Washington"
+        },
+        {
+            "question": "Qui a été le premier président des États-Unis ?",
+            "type": "qcm",
+            "options": [
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "John Adams"
+            ],
+            "answer": "George Washington"
+        },
+        {
+            "question": "En quelle année a eu lieu la Révolution française ?",
+            "type": "ouverte",
+            "answer": "1789"
         }
     ]
 }
