@@ -1,0 +1,91 @@
+{
+    "Histoire": [
+        {
+            "question": "En quelle année la Révolution française a-t-elle commencé ?",
+            "reponse": "1789",
+            "type": "qcu",
+            "options": [
+                "1776",
+                "1789",
+                "1815",
+                "1848"
+            ]
+        },
+        {
+            "question": "Qui était le premier président des États-Unis ?",
+            "reponse": "George Washington",
+            "type": "qcu",
+            "options": [
+                "Thomas Jefferson",
+                "George Washington",
+                "Abraham Lincoln",
+                "John Adams"
+            ]
+        }
+    ],
+    "Geographie": [
+        {
+            "question": "Quel est le plus grand pays du monde en superficie ?",
+            "reponse": "Russie",
+            "type": "qcu",
+            "options": [
+                "Canada",
+                "Russie",
+                "Chine",
+                "États-Unis"
+            ]
+        }
+    ],
+    "Science et nature": [
+        {
+            "question": "Quel est l’élément chimique dont le symbole est 'O' ?",
+            "reponse": "Oxygène",
+            "type": "qcu",
+            "options": [
+                "Or",
+                "Osmium",
+                "Oxygène",
+                "Oganesson"
+            ]
+        }
+    ],
+    "Sport et loisirs": [
+        {
+            "question": "Dans quel sport utilise-t-on une balle de 57 mm de diamètre ?",
+            "reponse": "Tennis de table",
+            "type": "qcu",
+            "options": [
+                "Golf",
+                "Baseball",
+                "Tennis de table",
+                "Hockey"
+            ]
+        }
+    ],
+    "Art et littérature": [
+        {
+            "question": "Qui a peint la Joconde ?",
+            "reponse": "Léonard de Vinci",
+            "type": "qcu",
+            "options": [
+                "Michel-Ange",
+                "Raphaël",
+                "Léonard de Vinci",
+                "Van Gogh"
+            ]
+        }
+    ],
+    "Divertissement": [
+        {
+            "question": "Quel est le nom du sorcier principal dans 'Harry Potter' ?",
+            "reponse": "Harry Potter",
+            "type": "qcu",
+            "options": [
+                "Harry Potter",
+                "Gandalf",
+                "Merlin",
+                "Dumbledore"
+            ]
+        }
+    ]
+}
