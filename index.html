@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Triv'IA</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<div class="container">
+    <!-- Menu latéral -->
+    <div class="sidebar">
+        <ul>
+            <li class="geo" onclick="setTheme('geo')">🌍 Géographie</li>
+            <li class="hist" onclick="setTheme('hist')">🏛️ Histoire</li>
+            <li class="science" onclick="setTheme('science')">🔬 Sciences et nature</li>
+            <li class="sports" onclick="setTheme('sports')">⚽ Sports et Loisirs</li>
+            <li class="art" onclick="setTheme('art')">🎨 Arts et littérature</li>
+            <li class="divert" onclick="setTheme('divert')">🎭 Divertissement</li>
+        </ul>
+    </div>
+
+    <!-- Contenu principal -->
+    <div class="content">
+        <div class="flip">
+            <div class="card" id="quizCard" onclick="flipCardFunction()">
+                <div class="face front">
+                    <div class="watermark">QUESTION</div>
+                    <div class="text" id="question">Choisir un thème</div>
+                    <div class="options" id="options"></div> <!-- Propositions pour QCM/QCU -->
+                </div>
+                <div class="face back">
+                    <div class="watermark">RÉPONSE</div>
+                    <div class="text" id="answer">Choisir un thème</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+  
+    
+    <footer>
+        <p>&copy; 2025 Mon Site. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
