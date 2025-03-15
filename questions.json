@@ -2,7 +2,7 @@
     "geo": [
         {
             "type": "ouverte",
-            "question": "Quel est le plus grand pays du monde en superficie ?",
+            "question": "Quel est le plus grand pays du monde en superficie ? ",
             "answer": "La Russie"
         },
         {
