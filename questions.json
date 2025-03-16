@@ -1,229 +1,146 @@
 {
-    "geo": [
+    "Géographie": [
         {
             "type": "ouverte",
-            "question": "Quel est le plus grand pays du monde en superficie ? ",
-            "answer": "La Russie"
-        },
-        {
-            "type": "qcm",
-            "question": "Quels sont les pays traversés par l'Amazone ?",
-            "options": [
-                "Brésil",
-                "Pérou",
-                "Argentine",
-                "Colombie"
-            ],
-            "answers": [
-                "Brésil",
-                "Pérou",
-                "Colombie"
-            ]
+            "question": "Quelle est la plus grande île du monde qui ne soit pas un continent ?",
+            "answer": "Groenland"
         },
         {
             "type": "qcu",
-            "question": "Quel est le seul pays d'Amérique du Sud à avoir une frontière avec la France ?",
-            "options": [
-                "Brésil",
-                "Argentine",
-                "Venezuela",
-                "Colombie"
-            ],
-            "answer": "Brésil"
+            "question": "Quel est le point le plus bas sur Terre en termes d'altitude ?",
+            "options": ["Vallée de la Mort", "Mer Morte", "Fosse des Mariannes", "Lac Baïkal"],
+            "answer": "Mer Morte"
+        },
+        {
+            "type": "qcm",
+            "question": "Quelles villes ont été capitales de la Russie à différentes époques ?",
+            "options": ["Moscou", "Saint-Pétersbourg", "Novgorod", "Ekaterinbourg"],
+            "answers": ["Moscou", "Saint-Pétersbourg"]
         },
         {
             "type": "vf",
-            "question": "Le Nil est le fleuve le plus long du monde.",
+            "question": "L'Amazone est le fleuve ayant le plus grand débit au monde.",
             "answer": "Vrai"
         }
     ],
-    "histoire": [
+    "Histoire": [
         {
             "type": "ouverte",
-            "question": "Qui était le premier président des États-Unis ?",
-            "answer": "George Washington"
+            "question": "Qui a été le dernier empereur de France ?",
+            "answer": "Napoléon III"
+        },
+        {
+            "type": "qcu",
+            "question": "Quel événement a marqué la fin de l'Empire romain d'Occident en 476 ?",
+            "options": ["La bataille de Hastings", "La chute de Constantinople", "L'abdication de Romulus Augustule", "L'assassinat de Jules César"],
+            "answer": "L'abdication de Romulus Augustule"
         },
         {
             "type": "qcm",
             "question": "Quels pays faisaient partie de l'Axe pendant la Seconde Guerre mondiale ?",
-            "options": [
-                "Allemagne",
-                "Italie",
-                "Japon",
-                "Royaume-Uni"
-            ],
-            "answers": [
-                "Allemagne",
-                "Italie",
-                "Japon"
-            ]
-        },
-        {
-            "type": "qcu",
-            "question": "En quelle année a eu lieu la chute du mur de Berlin ?",
-            "options": [
-                "1987",
-                "1989",
-                "1991",
-                "1993"
-            ],
-            "answer": "1989"
+            "options": ["Allemagne", "Italie", "Japon", "Espagne"],
+            "answers": ["Allemagne", "Italie", "Japon"]
         },
         {
             "type": "vf",
-            "question": "Napoléon Bonaparte est mort en exil sur l'île de Saint-Hélène.",
+            "question": "La guerre de Cent Ans a duré exactement cent ans.",
+            "answer": "Faux"
+        }
+    ],
+    "Sciences et nature": [
+        {
+            "type": "ouverte",
+            "question": "Quel est le seul métal liquide à température ambiante ?",
+            "answer": "Mercure"
+        },
+        {
+            "type": "qcu",
+            "question": "Quelle particule subatomique n'a pas de charge électrique ?",
+            "options": ["Proton", "Électron", "Neutron", "Quark"],
+            "answer": "Neutron"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont les critères définissant une planète selon l'Union astronomique internationale ?",
+            "options": ["Être en orbite autour du Soleil", "Avoir une masse suffisante pour être sphérique", "Avoir éliminé les corps voisins de son orbite", "Être plus grand que la Lune"],
+            "answers": ["Être en orbite autour du Soleil", "Avoir une masse suffisante pour être sphérique", "Avoir éliminé les corps voisins de son orbite"]
+        },
+        {
+            "type": "vf",
+            "question": "Les amphibiens peuvent respirer à la fois par leurs poumons et leur peau.",
             "answer": "Vrai"
         }
     ],
-    "arts_litterature": [
+    "Arts et littérature": [
         {
             "type": "ouverte",
-            "question": "Qui a écrit 'Roméo et Juliette' ?",
-            "answer": "William Shakespeare"
-        },
-        {
-            "type": "qcm",
-            "question": "Quels peintres sont associés au mouvement impressionniste ?",
-            "options": [
-                "Claude Monet",
-                "Vincent van Gogh",
-                "Edgar Degas",
-                "Pablo Picasso"
-            ],
-            "answers": [
-                "Claude Monet",
-                "Edgar Degas"
-            ]
+            "question": "Quel est le titre du chef-d'œuvre de Marcel Proust ?",
+            "answer": "À la recherche du temps perdu"
         },
         {
             "type": "qcu",
-            "question": "Quel est le vrai nom de Molière ?",
-            "options": [
-                "Jean-Baptiste Poquelin",
-                "François-Marie Arouet",
-                "Honoré de Balzac",
-                "Émile Zola"
-            ],
-            "answer": "Jean-Baptiste Poquelin"
-        },
-        {
-            "type": "vf",
-            "question": "L'œuvre 'Les Fleurs du Mal' a été écrite par Victor Hugo.",
-            "answer": "Faux"
-        }
-    ],
-    "sciences_nature": [
-        {
-            "type": "ouverte",
-            "question": "Quel est l’élément chimique le plus abondant dans l’univers ?",
-            "answer": "L'hydrogène"
+            "question": "Quel peintre a réalisé 'La Nuit étoilée' ?",
+            "options": ["Pablo Picasso", "Claude Monet", "Vincent Van Gogh", "Salvador Dalí"],
+            "answer": "Vincent Van Gogh"
         },
         {
             "type": "qcm",
-            "question": "Quels sont les planètes du système solaire qui ont des anneaux ?",
-            "options": [
-                "Jupiter",
-                "Saturne",
-                "Uranus",
-                "Mars"
-            ],
-            "answers": [
-                "Jupiter",
-                "Saturne",
-                "Uranus"
-            ]
-        },
-        {
-            "type": "qcu",
-            "question": "Quel scientifique a découvert la loi de la gravitation universelle ?",
-            "options": [
-                "Isaac Newton",
-                "Galilée",
-                "Albert Einstein",
-                "Nikola Tesla"
-            ],
-            "answer": "Isaac Newton"
+            "question": "Quels sont des mouvements artistiques du XXe siècle ?",
+            "options": ["Surréalisme", "Impressionnisme", "Cubisme", "Rococo"],
+            "answers": ["Surréalisme", "Cubisme"]
         },
         {
             "type": "vf",
-            "question": "Les mammifères pondent des œufs.",
-            "answer": "Faux"
-        }
-    ],
-    "divertissement": [
-        {
-            "type": "ouverte",
-            "question": "Quel est le nom du célèbre sorcier créé par J.K. Rowling ?",
-            "answer": "Harry Potter"
-        },
-        {
-            "type": "qcm",
-            "question": "Quels acteurs ont joué Batman au cinéma ?",
-            "options": [
-                "Christian Bale",
-                "Michael Keaton",
-                "Robert Downey Jr.",
-                "Ben Affleck"
-            ],
-            "answers": [
-                "Christian Bale",
-                "Michael Keaton",
-                "Ben Affleck"
-            ]
-        },
-        {
-            "type": "qcu",
-            "question": "Quel est le premier long-métrage d’animation produit par Disney ?",
-            "options": [
-                "Cendrillon",
-                "Blanche-Neige et les Sept Nains",
-                "Le Roi Lion",
-                "Fantasia"
-            ],
-            "answer": "Blanche-Neige et les Sept Nains"
-        },
-        {
-            "type": "vf",
-            "question": "Le premier film Star Wars est sorti en 1977.",
+            "question": "Molière est un pseudonyme.",
             "answer": "Vrai"
         }
     ],
-    "sports_loisirs": [
+    "Sports et loisirs": [
         {
             "type": "ouverte",
-            "question": "Dans quel sport utilise-t-on un putter ?",
-            "answer": "Le golf"
-        },
-        {
-            "type": "qcm",
-            "question": "Quels pays ont remporté la Coupe du Monde de football au moins une fois ?",
-            "options": [
-                "Brésil",
-                "Allemagne",
-                "Argentine",
-                "Pays-Bas"
-            ],
-            "answers": [
-                "Brésil",
-                "Allemagne",
-                "Argentine"
-            ]
+            "question": "Quelle est la seule équipe de football à avoir remporté six Coupes du monde ?",
+            "answer": "Aucune, le Brésil détient le record avec cinq"
         },
         {
             "type": "qcu",
-            "question": "Combien de joueurs composent une équipe de basketball sur le terrain ?",
-            "options": [
-                "5",
-                "6",
-                "7",
-                "11"
-            ],
-            "answer": "5"
+            "question": "Quel est le sport d'origine du décathlonien ?",
+            "options": ["Athlétisme", "Gymnastique", "Natation", "Cyclisme"],
+            "answer": "Athlétisme"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des types de prises en judo ?",
+            "options": ["O-soto-gari", "Tomoe-nage", "Seoi-nage", "Ippon-seoi-nage"],
+            "answers": ["O-soto-gari", "Tomoe-nage", "Seoi-nage", "Ippon-seoi-nage"]
         },
         {
             "type": "vf",
-            "question": "Le Tour de France est une compétition de course automobile.",
-            "answer": "Faux"
+            "question": "Roger Federer a remporté plus de 20 tournois du Grand Chelem.",
+            "answer": "Vrai"
+        }
+    ],
+    "Divertissement": [
+        {
+            "type": "ouverte",
+            "question": "Quel réalisateur a remporté l'Oscar du meilleur film en 2020 avec 'Parasite' ?",
+            "answer": "Bong Joon-ho"
+        },
+        {
+            "type": "qcu",
+            "question": "Quel est le premier film d'animation entièrement en images de synthèse ?",
+            "options": ["Shrek", "Le Roi Lion", "Toy Story", "Ratatouille"],
+            "answer": "Toy Story"
+        },
+        {
+            "type": "qcm",
+            "question": "Quels sont des jeux vidéo développés par Nintendo ?",
+            "options": ["Super Mario Bros.", "The Legend of Zelda", "Halo", "Animal Crossing"],
+            "answers": ["Super Mario Bros.", "The Legend of Zelda", "Animal Crossing"]
+        },
+        {
+            "type": "vf",
+            "question": "James Bond est un personnage créé par Ian Fleming.",
+            "answer": "Vrai"
         }
     ]
 }
